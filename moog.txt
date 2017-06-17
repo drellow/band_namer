@@ -1,0 +1,831 @@
+ASSEMBLY INSTRUCTIONS
+& USER’S MANUAL
+Analog Synthesizer / Moogfest 2014 Kit
+IMPORTANT SAFETY INSTRUCTIONS
+WARNING - WHEN USING ELECTRIC PRODUCTS, THESE BASIC
+PRECAUTIONS SHOULD ALWAYS BE FOLLOWED.
+1. Read these instructions.
+2. Keep these instructions.
+3. Heed all warnings
+4. Follow all instructions
+5. Do not use apparatus near water - for example, but not limited to: near
+a bathtub, washbowl, kitchen sink, in a wet basement, or near a swim
+ming pool or the like.
+6. Clean only with dry cloth.
+7. Do not block any ventilation openings. Install in accordance with the
+manufacturer’s instructions.
+8. Do not install near any heat sources such as radiators, heat registers,
+   stoves or other apparatus (including amplifiers) that produce heat. Do
+not operate this apparatus with the case in direct sunlight.
+9. Protect the power cord from being walked on or pinched particularly at
+plugs, convenience receptacles, and the point where they exit from
+the apparatus.
+10. Use attachments/accessories specified by the manufacturer. Ensure
+that any external equipment used in conjunction with this product
+   is installed according to the safety specifications supplied with
+that equipment.
+11. Unplug this apparatus during lightning storms or when unused for a
+long period of time.
+12.   This product, in combination with an amplifier and headphones or
+speakers, may be capable of producing sound levels that could cause
+permanent hearing loss. Do not operate for a long period of time
+at a high volume level or at a level that is uncomfortable.
+13. The product should only be connected to the AC adapter supplied with
+the product. Do not connect the AC adapter to an Mains AC socket-
+   outlet that is outside the adapter’s input specifications.
+14. Care should be taken so that objects do not fall and liquids are not
+spilled into the enclosure through openings. Do not expose this product
+to rain or moisture.
+15.   Refer all servicing to qualified service personnel. Servicing is required
+when the apparatus has been damaged in any way, such as if power
+supply cord or plug is damaged, liquid has been spilled or objects have
+fallen into the apparatus, the apparatus has been exposed to rain or
+moisture, does not operate normally, or has been dropped.
+NOTE:
+This equipment has been tested and found to comply with the limits for a
+Class B digital device, pursuant to part 15 of the FCC Rules. These limits are
+designed to provide reasonable protection against harmful interference in
+a residential installation. This equipment generates, uses and can radiate
+radio frequency energy and, if not installed and used in accordance with
+the instructions, may cause harmful interference to radio communications.
+However, there is no guarantee that interference will not occur in a particular
+installation. If this equipment does cause harmful interference to radio
+or television reception, which can be determined by turning the equipment
+off and on, the user is encouraged to try to correct the interference by one
+or more of the following measures:
+—Reorient or relocate the receiving antenna.
+—Increase the separation between the equipment and receiver.
+—Connect the equipment into an outlet on a circuit different from
+ that to which the receiver is connected.
+—Consult the dealer or an experienced radio/TV technician for help.
+CAUTION: Please note that any changes or modifications made to this
+product not expressly approved by Moog Music Inc. could void the user’s
+authority granted by the FCC to operate the equipment.
+TABLE OF CONTENTS
+INTRODUCTION 6
+ANALOG SYNTHESIZER BASICS 7
+ASSEMBLY
+Parts List 8
+Instructions 9
+WERKSTATT FEATURES AND CONTROLS
+   Default Settings  12
+Voltage Controlled Oscillator 13
+Voltage Controlled Filter 14
+   Voltage Controlled Amplifier  14
+Oscillator Modulation 15
+Filter Modulation 16
+Low Frequency Oscillator 17
+   Envelope Generator  18
+Keyboard 19
+Patchable Header 20
+Rear Panel 21
+ABOVE AND BEYOND
+Interfacing with Other Synthesizers and Effects  21
+Hacking & Circuit Bending 23
+SPECIFICATIONS 24
+
+5
+WERKSTATT-Ø1
+The Moog Werkstatt-Ø1 is a patchable,
+100% analog synthesizer whose design
+is based on classic Moog circuits.
+Assembly is extremely simple: Any
+user can quickly build this analog
+synthesizer with minimal tools
+and expertise. Through assembly
+and inspired investigation, the
+Werkstatt-Ø1 is an excellent platform
+for exploring the world of analog
+synthesizer circuits. A lifetime of
+experimentation, knob twisting, and
+sound design awaits.
+7
+ANALOG SYNTHESIZER BASICS
+An analog synthesizer generates two types of signals: Audio Signals and
+Control Signals. Audio signals are the sounds you hear emanating from the
+sound creation circuits of an instrument. Control signals, on the other hand,
+are used to change and/or modify the settings of these circuits. Due to the
+analog nature of the instrument, these Control signals carry a continuously
+variable voltage level. These signals are referred to as Control Voltages,
+and most analog synthesizer components are “Voltage Controlled.” An
+additional type of control signal is known as a Gate, or Trigger, which is
+simply used to initiate an event. Changing Pitch or frequency is an example
+of using a Control Voltage; playing a key on a keyboard is an example of
+generating a Gate signal.
+In an analog synthesizer, each set of circuits performs a particular job. The
+oscillators, filters, and envelopes, etc. are each self-contained modules.
+By design, these modules are wired together using both audio signals and
+control signals. However, patch points and patch cables can allow these
+modules to be reconnected in new ways. This is the basis for the term
+Modular Synthesizer. The first Moog synthesizers were modular synthesizers.
+In this diagram of the Werkstatt modules, the solid lines represent audio
+signals, and the dotted lines represent control signals. The definitions and
+functions of each module are described in the Werkstatt Features and
+Controls section.
+8
+ASSEMBLY
+Putting together your Werkstatt is easy. No soldering is required, and all of
+the electronic components have been pre-assembled. The only tools you
+will need are a #1 Phillips [ + ] screwdriver, and a good pair of scissors. And
+while assembly is not complicated, it is important to follow each step, in
+order. Be mindful that you are working with electronics, so a good measure
+of caution and care is always in order.
+A NOTE ABOUT ELECTROSTATIC DISCHARGE:
+You may have noticed that little electric shock you sometimes receive
+when you touch something like a metal doorknob. This is called electrostatic
+discharge, and it can be harmful to electronic components. To
+protect the circuitry when you are assembling your Werkstatt, leave the
+circuit board in its protective anti-static sleeve until you are ready to install
+it. Also, take a moment to ground yourself by touching a metal surface or
+grounded object before you handle the circuit board.
+PARTS LIST
+Unpack your Werkstatt synthesizer kit and make sure all parts are present
+and accounted for before you get started.
+A)   Werkstatt-Ø1 Printed Circuit Board (PCB)  x 1
+B)   Bottom Chassis (metal)  x 1
+C)   Top Panel with silkscreened printing (metal)  x 1
+D)   12 Volt DC power adapter  x 1
+E)   Hardware Kit containing:
+   a)    Keyboard button caps  x 13
+   b)    1/4” Sheet metal screws (Black)   x 4
+   c)    1/4” Pan head machine screws (Silver)   x 5
+   d)    Black nylon washer  x 1
+   e)    Black nylon hex nut   X 1
+   f)    Rubber feet   x 4
+   g)  Patchable Header cables   x 5
+F)   Serial Number label   x 1
+9
+INSTRUCTIONS
+1) ATTACHING THE FEET
+Attach the four rubber
+feet by pushing them into
+the holes of the Bottom
+Chassis and twisting.
+The black nylon washer is
+used as a spacer between
+the audio jack and the
+inside of the Bottom
+Chassis. You will need to
+cut a 1/16” section from
+the washer.
+2) TRIMMING THE NYLON WASHER
+10
+3) INSTALLING THE ELECTRONICS
+A) Carefully remove the Printed Circuit Board from the protective sleeve.
+Take the washer you prepared in the previous step and slide it onto the
+audio output jack, lining up the missing section with the metal tab on
+the jack.
+B) Place the Printed Circuit Board into the Bottom Chassis. Slide the audio
+jack through the jack hole, and be sure the five mounting holes in the
+Printed Circuit Board line up with the standoffs on the Bottom Chassis.
+   Using the silver pan head machine screws (x5), loosely attach the Printed
+Circuit Board to the chassis. Take a moment to make sure everything is
+lined up neatly and correctly—including the power input jack—and then
+go ahead and tighten the screws.
+Finally, place the black nylon hex nut on the audio jack, and hand-tighten
+the nut to hold the jack securely to the Bottom Chassis.
+A. B.
+11
+4) POWER / LED TEST
+Using only the included
+power supply, connect the
+barrel end to the power supply
+input of your Werkstatt;
+connect the other end to
+an AC wall outlet (100-240
+Volts AC / 50-60 Hz). At this
+point, the red LED on the
+front panel (LFO) should
+begin blinking. If it does,
+you’re ready to move on.
+NOTE: Unplug the power
+supply from the Werkstatt
+before proceeding.
+YOUR WERKSTATT IS NOW COMPLETE.
+Place the 13 button caps on
+the keyboard buttons.
+Place the Top Panel in
+position so that all of the
+knobs, switches, and keyboard
+buttons pass through
+the corresponding holes.
+Secure the Top Panel using
+the four (x4) black sheet
+metal screws. The screw
+holes in the Top Panel
+should line up with the screw
+holes in the Bottom Chassis.
+NOTE: Tightening these
+screws may require a little
+extra effort the first time,
+as these screws must cut
+threads into the metal holes.
+5) ATTACHING KEYBOARD BUTTONS
+6) ADDING THE TOP PANEL
+12
+FEATURES AND CONTROLS
+The Werkstatt is a monophonic (one note a time) analog synthesizer, and as
+with many analog synthesizers, the Werkstatt is modular in nature. While there
+are many hard-wired connections that allow the Werkstatt to be used as-is, the
+addition of a Patchable Header allows the freedom to connect the modules in
+new and creative ways.
+DEFAULT SETTINGS
+Carefully set all of the controls to the default positions shown below. This will
+provide a great starting point for exploring the functions and features of the
+Werkstatt-Ø1 Analog Synthesizer.
+13
+VCO (VOLTAGE CONTROLLED OSCILLATOR)
+The Oscillator is the primary sound generating component of an analog synthesizer.
+Based on the same circuitry as the Minimoog Voyager and Little Phatty,
+the Werkstatt oscillator produces a raw waveform that is rich in harmonics.
+While the keyboard determines the note being played, the frequency knob
+determines the pitch of that note.
+FREQ (FREQUENCY KNOB)
+The Frequency knob offers a wide pitch range, extending over nine octaves.
+Keep in mind, the pitch is also controlled via the keyboard, and can be modified
+by other control signals. Depending on your monitoring system—and your
+ears—the outer ranges of the FREQ knob may appear to be inaudible.
+WAVE (WAVEFORM SWITCH)
+Two waveform options are available on the Werkstatt. Each waveform, or waveshape,
+carries a distinct harmonic content, creating a different sonic signature,
+known as timbre.
+SAW: Short for Sawtooth, the Saw wave looks similar to the cutting edge of
+a saw blade. The Saw wave contains both even and odd numbered harmonics,
+and creates a bright and buzzy sound before filtering. The strength—or
+level—of each harmonic is the reciprocal of its number in the harmonic series.
+PULSE: This waveform is unique in that it only contains the odd numbered
+harmonics. The ratio that controls the relative volume of these harmonics
+is determined by the Pulse Width. The width of the pulse can be anything
+from a wide rectangle to a square to a very narrow rectangle. The thinner
+the wave, the more the upper harmonics are accentuated.
+PWM (PULSE WIDTH MODULATION)
+When the Pulse waveform is selected, the Pulse Width Modulation knob can be
+used to determine the shape of the Pulse, thereby changing the timbre of the
+wave. With the knob set just a little left of center, the wave will be square, with
+a 50% duty cycle. The duty cycle is commonly thought of as the positive portion
+of the wave. The range of this knob can create a narrow pulse wave with
+a duty-cycle of almost zero, all the way up to a wide rectangular wave having
+about a 95% duty-cycle.
+NOTE: This knob will not function when the VCO MOD DEST switch is set to
+PWM. In this case, the Pulse Width will be controlled by the VCO MOD SOURCE.
+The keyboard determines the note
+played based on the setting of the
+Freq control - these two control inputs
+are summed together.
+14
+VCF (VOLTAGE CONTROLLED FILTER)
+VCA (VOLTAGE CONTROLLED AMPLIFIER)
+CUTOFF (CUTOFF FREQUENCY KNOB)
+The Cutoff knob specifies the frequency where the Filter is applied. Turning
+the knob to the right will open the filter, allowing more harmonic content to be
+heard, creating a brighter sound. Turning the knob to the left will close the filter,
+causing more harmonic content to be filtered, creating a darker sound.
+RES (RESONANCE KNOB)
+Directing the output of the filter back to the input allows the Moog filter to
+create a harmonic boost at the cutoff frequency. The amount of this boost, or
+emphasis, is controlled by the Resonance knob. By increasing the Resonance
+and decreasing the cutoff, the Werkstatt filter can be made to self-oscillate,
+creating a sine wave that can be used as second audio sound source.
+MODE (MODE SWITCH)
+The VCA can function in one of two ways, controlled by the Mode switch.
+ON: In this position, the VCA is always on, and the audio signal of the
+Werkstatt is output continuously, all the time. This setting is great for when
+you are creating synthesizer sounds and effects that need to play for an
+extended period, or droning sounds.
+EG: EG is short for Envelope Generator. When the switch is in this position,
+the VCA is controlled by the Attack, Sustain, and Decay characteristics of
+the Envelope Generator Module.
+The Werkstatt uses the classic 24dB per
+octave Moog Ladder filter. This low-pass
+Voltage Controlled Filter (VCF) selectively
+shapes the timbre of the sound created
+by the oscillator, by attenuating and/or
+emphasizing certain harmonic elements.
+This section controls the output level of the
+Werkstatt. As you may have noticed, there is
+no Volume knob on the Werkstatt. The VCA
+boosts the final audio signal to a suitable level.
+15
+VCO MOD (MODULATION OF THE VOLTAGE CONTROLLED OSCILLATOR)
+SOURCE (SOURCE SWITCH)
+This switch allows you to choose which Modulation Source will be applied to
+the Oscillator.
+EG: EG is short for Envelope Generator. When the switch is in this position,
+the Attack, Sustain, and Decay characteristics of the Envelope Generator
+will be used as the modulation source.
+LFO: LFO is short for Low Frequency Oscillator. The LFO produces a cyclic
+change that can be used to create a repeating effect. When the switch is in
+this position, the LFO will be used as the modulation source.
+AMOUNT (AMOUNT KNOB)
+Once a modulation source has been selected, the Amount knob can be used to
+control the depth of the modulation effect.
+DEST (DESTINATION SWITCH)
+This switch allows you to choose which control will be affected by the chosen
+Modulation Source.
+PWM: When the switch is in this position, the Modulation source will be used
+to continually vary the width of the Pulse wave. The VCO Wave switch must
+be set to Pulse.
+NOTE: Placing the switch in the PWM position will override the Pulse Width
+Modulation (PWM) knob in the VCO section.
+FREQ: When the switch is in this position, the Modulation source will be
+used to continually vary the pitch of the Oscillator. This can be used to create
+a gentle vibrato or wild swoops in pitch, all depending on the Amount
+Knob and the setting of the LFO Rate knob (or EG).
+Modulation is a way of introducing subtle or drastic changes to a sound—or
+anything in between. In order to use modulation effectively, you will need to
+select a modulation source, choose a destination, and control the depth of
+the effect.
+16
+VCF MOD (MODULATION OF THE VOLTAGE CONTROLLED FILTER)
+SOURCE (SOURCE SWITCH)
+This switch allows you to choose which Modulation Source will be applied to
+the filter.
+EG: EG is short for Envelope Generator. When the switch is in this position,
+the Attack, Sustain, and Decay characteristics of the Envelope Generator
+will be used as the modulation source.
+LFO: LFO is short for Low Frequency Oscillator. The LFO produces a cyclic
+change that can be used to create a repeating effect. When the switch is in
+this position, the LFO will be used as the modulation source.
+AMOUNT (AMOUNT KNOB)
+Once a modulation source has been selected, the Amount knob can be used to
+control the depth of the modulation effect.
+POLARITY (POLARITY SWITCH)
+The Polarity of the VCF modulation source can be reversed. That is, the normally
+negative portions will become positive, and vice-versa. For example,
+instead of using the Attack portion of the EG to boost the Filter Cutoff frequency,
+inverting the polarity will allow the Attack portion to lower the Filter Cutoff
+Frequency. Just be aware that if the Cutoff is already set low, inverting the EG
+polarity might close the Filter too far, making it appear as if the Werkstatt is not
+creating any sound.
+[ + ]:   Positive is the normal polarity for the VCF Modulation Source.
+[ – ]:   The negative position reverses the VCF Modulation Source.
+Filter Modulation changes the value of the Filter’s Cutoff Frequency. Either
+the EG or the LFO can be used as a Filter modulation source. When the EG is
+chosen as the modulation source, the polarity of the EG can be reversed for
+even greater sound creation options.
+17
+LFO MOD (LOW FREQUENCY OSCILLATOR)
+RATE (RATE KNOB)
+The speed, or frequency, of the LFO is controlled via this knob. The red LED will
+flash once for every wave cycle, providing visual feedback of the LFO speed.
+WAVE (WAVE SWITCH)
+This switch allows you to select the Waveform of the LFO.
+SQUARE: When the Square wave is selected, the LFO will alternate between
+two distinct values representing the upper and lower limits of the wave.
+Some good examples of Square wave modulation are the emulation of an
+acoustic instrument playing a trill, or many vintage video game sounds.
+TRIANGLE: The Triangle wave creates a continuously changing value that
+sweeps between the upper and lower limits of the wave. Vibrato is a good
+example of Triangle wave modulation.
+The Low Frequency Oscillator creates a consistent modulation source that can
+be used to add a repeating, cyclical change to any of the modulation sources.
+It can be used to modulate the Filter Cutoff Frequency, the Pitch of the Oscillator,
+or the Width of a Pulse wave. Using the Patchable Header, you can also
+use the LFO to modulate other parameters, such as the VCA output level. The
+Werkstatt LFO has an upper frequency of around 600 Hz—well within the
+audio range. This ability allows the LFO to create rich and unusual sounds when
+modulating the Oscillator pitch or other destinations.
+18
+ENVELOPE (ENVELOPE GENERATOR)
+SUSTAIN (SUSTAIN SWITCH)
+In a simple sense, the Sustain switch allows you to choose either a piano-like
+behavior, or something more like an organ, by activating the Sustain segment
+of the Envelope Generator.
+ON:   When the Sustain switch is set to On, the Envelope will continue to
+sustain as long as the keyboard key is being played. In this mode, the Werkstatt
+behaves more like an organ.
+OFF: The Off position bypasses the sustain segment of the envelope generator.
+The Envelope will advance directly from the Attack stage to the Decay
+stage. In this mode, the Werkstatt creates more of a plucked sound, like
+a piano.
+NOTE: With the SUSTAIN switch in the OFF position, the attack must be very
+short or the EG will not produce an output.
+ATTACK (ATTACK KNOB)
+The time it takes for the Envelope Generator to reach its maximum level is
+known as the Attack time. For a fast Attack, turn this knob counter-clockwise.
+For a slower Attack, increase the value by turning the knob clockwise.
+NOTE: Keep this knob turned down when the SUSTAIN switch in the OFF position,
+or the EG will not produce an output.
+DECAY (DECAY KNOB)
+The time it takes for the Envelope Generator to reach its lowest level after the
+key is released, or after the attack segment is complete is known as the Decay
+time. For a fast Decay, turn this knob counter-clockwise. For a slower Decay,
+increase the value by turning the knob clockwise.
+Each time a key is pressed or a trigger received, the Envelope Generator can
+produce a series of control voltages that allow you to change the value of certain
+parameters over time. The Attack, Sustain, and Decay parameters combine
+to create an Envelope shape that can be chosen as a modulation source.
+19
+KBD (KEYBOARD)
+This diagram shows how the “button” keyboard of the Werkstatt (above) relates
+to a standard piano keyboard. Although the note names shown are correct
+for this layout, the actual note being produced will also depend on many
+factors, including the VCO FREQ knob, etc...
+The Werkstatt is equipped with a one-octave, C to C keyboard. The keyboard
+features round buttons as opposed to traditional keys, but the layout is the
+same. The keyboard operates with a low note priority; if more than one note is
+played at the same time, the lowest note will sound.
+D
+C #
+E
+D #
+G
+F #
+A
+G #
+B
+A #
+KEYBOARD OCTAVE SCALING
+Play the lowest note [ C ] on the keyboard; now
+play the highest note [ C1 ]. The interval you hear
+between these notes should be one octave. If
+you have an electronic guitar tuner, you can use
+it to verify the notes being played. If the interval
+is not one octave, there is a Variable Resistor
+trimmer [ VR10 ] on the Printed Circuit Board labeled
+KB TRIM that can be adjusted to fine-tune
+the keyboard octave setting.
+GLIDE (GLIDE KNOB)
+To achieve a smooth pitch transition from one note to another, increase the
+Glide amount. Turning the knob clockwise increases the amount of time required
+to glide from one note to another. Turning the knob counter-clockwise
+will cancel the glide effect.
++5VTP18
+TP19 VR10
+R70
+Q9
+C53
+U13
+C58 C56
+U14
+C60 R82 C61
+KB TRIM
+20
+PATCH (PATCHABLE HEADER)
+Unlike fully modular analog synthesizers that have
+patch points on every module, the Werkstatt has
+gathered these inputs and outputs into a single
+compact Patchable Header.
+The physical format is different, but the function is
+the same. The Patchable Header allows control signals
+generated by the Werkstatt to be easily routed
+to the control inputs of the VCO, VCF, VCA, and
+LFO, vastly expanding the sound creation possibilities
+of the synthesizer. The five patch wires included
+with the Werkstatt are designed to make the most
+of these patch points. In addition to control signal
+inputs, the Patchable Header also features an audio
+input that feeds directly into the Filter.
+BEST PRACTICES
+In general, the Werkstatt is designed so there are
+no “illegal” patches, though not all make musical
+sense. In experimenting with the Patchable
+Header, there are some ground rules/best
+practices that apply.
+It is common to create a “Y” connection at a CV out point and drive two
+separate inputs. Many of the Werkstatt’s outputs already have two connections.
+However, it is best to avoid mixing two Control signals by creating a
+“Y” connection at a CV input, as adding these voltages together can possibly
+exceed the capabilities of the input.
+You should also avoid patching an output to an output; this is another version
+of passive voltage summing that can lead to unpredictable results. Patching
+an input to an input is not likely to result in any useful response.
+Note that there are control outputs for both the VCO and VCF signals. Technically,
+these are audio outputs; these audio outputs can serve double duty
+as control signals. For example, the VCO output can be used for audio rate
+modulation, or it can go down to 8 Hz—low enough to use as a LFO.
+PATCHING WITH OTHER ANALOG INSTRUMENTS
+The Patchable Header was not designed to connect with external CV gear,
+but it is possible. For more information and cautions, please refer to the Interfacing
+with Other Synthesizers and Effects section of this manual.
+21
+REAR PANEL
+The Werkstatt’s rear panel features two connection points; one audio output,
+and one power jack.
+AUDIO OUTPUT
+The Werkstatt’s single audio output features a 1/4” unbalanced (TS) jack.
+POWER INPUT
+Use only the DC power supply that was provided to power your Werkstatt.
+Plug the connector end into the Werkstatt, and plug the other end into a
+compatible wall outlet.
+ABOVE AND BEYOND
+For some, the Werkstatt is simply a starting point for exploring new
+sonic possibilities. It is possible to modify the internal circuitry, and to
+interface with other music-making devices. Here are a few guidelines to get
+you started.
+INTERFACING WITH OTHER SYNTHESIZERS AND EFFECTS
+COMMON GROUND
+The Patchable Header wasn’t specifically designed to connect with
+external CV gear, but it is possible to do so. If a CV connection between
+an external piece of CV gear and the Werkstatt is desired, the
+two devices must share a common ground connection or the external
+control will not work. The simplest way to achieve this is to plug the two
+devices into the same audio mixer. Both devices will have ground at the
+sleeve of their audio jacks. Make this audio / ground connection before
+connecting the units together.
+USE CAUTION
+Patching to external CV and Audio sources can subject the Werkstatt
+to voltages and currents that are beyond what it was designed to
+withstand. Caution should be exercised when selecting gear that will
+connect to the Werkstatt. Verify that the equipment used to provide a
+common ground connection is not faulty. Refer to the Specifications
+section for acceptable voltages.
+CALIBRATING THE WERKSTATT FOR 1 VOLT PER OCTAVE
+The VCO EXP IN connection point on the Patchable Header can be set
+to receive 1 Volt per Octave control signals. This calibration is performed
+using the Variable Resistor trim pot [ VR5 ] labelled VCO EXP
+TRIM. It is located on the Printed Circuit Board, below and to the right
+of the VCO Pitch potentiometer.
+22
+To calibrate, play the lowest note on the keyboard, and set the VCO FREQ
+knob to the center position. Send a 0V signal to the VCO EXP IN patch
+point and measure the frequency of the VCO. You can use an instrument
+tuner for this function. Next, send a +3V signal to the VCO EXP IN patch
+point. Adjust VR5 to eight times the first frequency measurement (this
+equals 3 Octaves). Repeat this process to verify calibration accuracy.
+Note that on the Patchable
+Header, the KB CV is output
+as about 0.3 Volts/semitone,
+which is equivalent
+to about 3.6 Volts/Octave.
+This allows the use of the
+Keyboard as a wider range
+controller than if it were
+output as 1 Volt/Octave.
+CREATING CABLES
+For internal patching use the included Patchable Header cables. If you
+want to patch the Werkstatt to external gear, you may want to convert
+the included patch cables so they can plug into the 1/4” (3.5mm) patch
+points on the other products. One simple technique is to take a 1/4” TS
+patch cable and cut it in half to make two half cables. Now take one of the
+Werkstatt patch cables and cut it in half as well. Since the ground is being
+provided by the audio output, you would only need to splice and solder
+the inner conductors of the two half-cables together, and then insulate
+the splice with electrical tape or heat-shrink tubing.
+MUSIC INC
+VCO EXP TRIM
+VCO
+VR1
+VCO PITCH
+SW1 VCO WAVE
+PULSE
+SAW
+TP10
+TP8
+C14
+JMP56
+R23
+R37 C27
+C30
+R40 R47
+TP14
+R39R43
+R46
+VR5
+VCO MOD
+SW3
+VCO MOD SRC
+U4
+23
+STUDYING THE WERKSTATT’S ANALOG CIRCUITS
+The Werkstatt circuitry was designed to invite exploration and study of its analog
+circuits. The complete schematic for the Werkstatt Printed Circuit Board can be
+downloaded from the Moog Music Website: www.moogmusic.com/werkstatt.
+Test Points, Jumpers, and a mini 16 x 6 Experimenter’s pad are provided on
+the Werkstatt Printed Circuit Board. Although the Printed Circuit Board was
+created using Surface Mount Design, these features use plated through-hole
+construction to make measuring and experimenting easier.
+TEST POINTS (TP)
+Plated through-hole test points are provided, allowing the ability to breakout
+the most important signals. In some cases, Test points have been added to control
+nodes for studying the behavior of the outputs of the circuits.
+JUMPERS (JMP)
+Plated through-hole jumpers exist for certain Audio Signal and Control Signals.
+Jumpers also exist for the unused Integrated Circuit pins (IC Gates) in order to
+terminate the unused inputs.
+EXPERIMENTER’S BREADBOARD PADS
+This is 16 x 6 grid of unconnected through-hole pads provides an area for
+bread-boarding new circuit designs. On the schematic these appear as a group
+of unconnected jumpers.
+Warranty Warning
+Hacking or Modifying your Werkstatt in any way will naturally void your warranty,
+as Moog Music cannot warrant parts and labor outside the original
+configuration of the product.
+In addition, please note that any changes or modifications made to this product
+could void the user’s authority granted by the FCC to operate the equipment.
+Moog Music Inc. does not recommend the modification of this product.
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+A
+B
+C
+D
+E
+F JMP9
+JMP18
+JMP27
+JMP36
+JMP45
+WERKSTATT SYNTH P/N BRD -10-011 - 1111
+REVA - 02/24/14 SD
+© Moog Music Inc. 2014
+VCA
+VR2 PULSE WIDTH VR3 VCF CUTOFF VCF VR4 VCF RES
+AUDIO OUT
+SW2
+VCA MODE
+TP5
+TP3
+TP7
+R16
+R6
+R4 R5 R7
+R8
+R9
+R13
+R15
+R18
+R22
+R21
+JMP46
+JMP55
+C10
+10
+12
+U3 TP4
+R14
+R19
+R25
+R20
+EXPERIMENTER’S PADS
+C11
+U2
+C15
+24
+SCHEMATIC DOWNLOAD AGREEMENT
+BY DOWNLOADING THE WERKSTATT SCHEMATIC, YOU ARE AGREEING TO
+THE FOLLOWING TERMS:
+1. All copyrights to the circuit diagrams for the Werkstatt are the property
+   of MOOG MUSIC INC. Copying this content in part or in whole without the
+permission of the copyright owner is forbidden by copyright law. How
+ever, you are permitted to make a single copy for personal non-commercial
+purposes.
+2. You are expressly forbidden to engage in commercial activities such as
+selling the circuit diagram materials that you have copied in part or
+in whole.
+3. The circuit diagrams are provided for customers who have purchased the
+product, and the reader is assumed to be a user of the product. Please
+   be aware that in some cases, MOOG MUSIC INC., its authorized dealers,
+and distributors may be unable to respond to inquiries regarding pub
+lished circuit diagram materials from people who have not purchased
+the product.
+4.  Specifications and electronic circuits of products are subject to change
+without notice.
+5. MOOG MUSIC INC. does not recommend modification of its products.
+6. Please be aware that modifying any Moog Music product will void
+the warranty.
+7. MOOG MUSIC INC., its authorized dealers, and the distributors shall bear
+   no liability for any damages (loss of business profits or data, financial loss,
+   or impairment of health) resulting from your use of these circuit diagrams.
+   This limitation of liability shall apply even if MOOG MUSIC INC., its
+   authorized dealers, and the distributors had been informed beforehand of
+the possibility of such damages.
+8. Please be aware that this downloading service may be terminated or
+modified without notice.
+SPECIFICATIONS
+All Specifications subject to change without notice.
+SOUND SOURCE:
+VCO - VOLTAGE CONTROLLED OSCILLATOR
+Range:     0 to +5 Volt Signal; 8Hz ~ 16KHz from KB
+ and VCO Freq Control
+Controllers:
+Waveform Switch:   Saw or Pulse
+PWM Knob: Pulse Width Modulation
+FREQ Knob:   Sweeps VCO over 8 Octaves
+Control Inputs:
+ KB CV: 1 Octave; with Glide
+ VCO MOD: Selectable LFO/ EG Switch; Assignable
+ Pitch or PWM
+VCO EXP IN:  Exponential FM Input – 1 Volt/Octave
+ nominal, trimmable via VR 5
+VCO LIN IN: Linear FM Input - this is an inverted input (incr-
+     ease in voltage applied lowers the frequency)
+Control Outputs:
+VCO CV: Control Voltage / Audio Output
+
+SOUND MODIFIERS:
+VCF - VOLTAGE CONTROLLED FILTER
+Type: 4-pole (24 dB/Octave), Ladder; self-oscillating
+     low-pass filter with resonance
+Controllers:
+CUTOFF knob:   Selectable LFO/ EG Switch; Polarity Switch
+VCF IN: Filter Cutoff Input
+Control Inputs:
+VCF MOD: Selectable LFO/ EG Switch; Polarity Switch
+VCF IN: Filter Cutoff Input
+Control Outputs:
+VCF Output: + 2 Volt Signal usable as CV or Sound Source
+VCA - VOLTAGE CONTROLLED AMPLIFIER
+Controllers:
+MODE switch:   EG / ON
+Control Inputs:
+VCA IN: Control Voltage Input
+MODULATION SOURCES:
+LFO - LOW FREQUENCY OSCILLATOR
+Range: + 2.5 Volt
+Controllers:
+RATE knob:   Modulation Frequency (.2 Hz ~ 600 Hz)
+WAVE switch:   Triangle / Square
+Control Inputs:
+ LFO IN: LFO Rate Control Voltage
+Control Outputs:
+LFO OUT: LFO Rate Control Voltage
+
+EG - ENVELOPE GENERATOR
+Range: 0 to +5 Volt
+Controllers:
+ATTACK knob: Attack Time
+DECAY knob: Decay Time
+SUSTAIN switch:  Sustain Level ON / OFF
+Control Outputs:
+EG OUT: Envelope Control Voltage
+KBD - KEYBOARD
+Type: 13 keys (1 Octave); Low-Note Priority; Legato
+     Triggering with Glide
+Controllers:
+GLIDE knob:    Time of Glide (Portamento) effect
+Control Outputs:
+KB CV OUT: Keyboard Control Voltage Output;
+ 3.7 Volts per Octave, nominal level
+TRIG: Keyboard Trigger Output; 5 msec pulse;
+     0 ~ +5 Volt signal
+GATE: Keyboard Gate Output; 0 ~ +5 Volt signal
+PATCHABLE HEADER
+Control Voltage Inputs:
+VCA IN: 0 to +5 Volt (VCA MODE switch set to ON)
+     -2.5 to +2.5 Volt (VCA MODE switch set to EG)
+ VCF IN: -5 to +5 Volt (Cutoff Frequency)
+ VCO LIN IN: Linear Pitch Input; ± 2.5 Volt (Inverting control
+     input)
+ VCO EXP IN:   Exponential Pitch Input; -5 ~ +5 Volt,
+ 1V/Octave, trimmable
+ LFO IN: -5 to +5 Volt
+ (Negative CV slows LFO further than available
+     on panel)
+Audio Inputs:
+VCF AUD IN: Filter Audio Input (Un-buffered/Un-mixed
+     AC coupled)
+Control Voltage Outputs:
+KB CV OUT (x2): Nominal 0.3V/semitone from 1 octave key
+ board
+       (Note: Attenuate for 1 V/Octave)
+ TRIG OUT (x2): 5 msec, 0 to +5 Volt pulse from keyboard
+ GATE OUT (x2):    0V (off) to +5 Volt (on) gate signal from
+ keyboard
+ EG Output (x2):   ASD / AD type Envelope Generator, 0 to
+ +5V signal
+ LFO Output (x2):      -2.5 to +2.5 Volt Triangle or Square wave
+       Shape selected by LFO WAVE switch
+ VCF Output (x2): -2 to +2 Volt signal for audio or CV uses.
+ VCO Output (x2): 0 to +5 Volt VCO signal;
+       Shape selected by VCO WAVE switch
+Audio Output:
+1/4” Unbalanced Output; Nominal ± 1.5 Volt Signal
+Power:
+AC wall transformer
+Output: +12 Volts DC; 1.2 Amperes; 2.1mm Center Pin
+ Positive
+Input:   100 to 240VAC, 50 to 60 Hz;
+ Typical power consumption - 2 Watts
+WARRANTY AND SERVICE INFO
+LIMITED WARRANTY
+Moog Music warrants that its products will be free from defects in materials
+and workmanship, and shall conform to specifications current at the time
+of shipment, for a period of one year from date of purchase. During the oneyear
+period, any defective products will be repaired or replaced, at Moog
+Music’s option, on a return-to-factory basis. This Warranty covers defects
+that Moog Music determines are no fault of the user.
+RETURNING YOUR WERKSTATT-Ø1 FOR REPLACEMENT/REPAIR
+You must obtain prior approval and an RMA number from Moog Music before
+returning any product to us. Wrap your Werkstatt-Ø1 carefully and pack
+it with the power adapter in its original carton. The warranty will not be
+honored if the product is not properly packed. Send it to Moog Music with
+transportation and insurance charges paid. A reasonable cost for service,
+materials and return freight will be charged to replace materials defective
+through the fault of the user, or for which the one year warranty period
+has expired.
+Transportation and insurance charges from Moog Music to your United
+States address, of products repaired or replaced under warranty will be
+paid by Moog Music.
+WARRANTY WARNING
+Hacking or Modifying your Werkstatt in any way will naturally void your
+warranty, as Moog Music cannot warrant parts and labor outside the original
+configuration of the product.
+In addition, please note that any changes or modifications made to this
+product could void the user’s authority granted by the FCC to operate the
+equipment. Moog Music Inc. does not recommend the modification of
+this product.
+Note: Specifications subject to change without notice.
+Moog®, and Werkstatt-Ø1® are registered trademarks of Moog Music Inc.
+©2014 Moog Music Inc
+MOOG MUSIC INC. 160 Broadway St. Asheville, NC 28801
+P: (828) 251-0090 E: info@moogmusic.com W: www.moogmusic.com

@@ -1,0 +1,3545 @@
+Why the missing pages?
+This is a FREE preview book with 18 topics covering
+music theory fundamentals. The full print
+edition has 19 bonus topics and a complete index.
+As a fellow musician, I want to offer you this free,
+useful book. Please GIVE THIS FREE EDITION
+AWAY to everyone you know! Post it online, email it,
+give it to your students, whatever!
+You can buy the full book at LearnMusicTheory.net. I
+try to keep the price low to help you out, and bulk
+discounts are available at checkout.
+Please don’t copy or share the bonus topics from the
+print edition. I put many, many, many hours of work
+into this book, so please respect the livelihood of a
+fellow musician. Thanks for your help!
+Copyright © 2011 by Mark Feezell. All Rights Reserved.
+Visit LearnMusicTheory.net for the latest editions
+and more great theory materials.
+Music Theory
+Fundamentals
+High-Yield Music Theory, vol. 1
+Mark Feezell
+LearnMusicTheory.net
+iii
+T A B L E O F C O N T E N T S
+Foreword: What is high-yield music theory?............................................................................................v
+Chapter 1: Music Notation .................................................................................................................7
+1.1 Staves and Clefs........................................................................................................................................ 8
+1.2 The Chromatic Scale and the Piano.................................................................................................... 10
+1.3 All About Octaves .................................................................................................................................. 12
+1.4 Rhythmic Values .................................................................................................................................... 14
+1.5 Time Signatures in Simple Meter....................................................................................................... 16
+1.6 Compound and Asymmetric Meter.................................................................................................... 18
+1.7 Tuplets/Grouplets .................................................................................................................................. 20
+1.8 Repeat Signs and Repeated Sections.................................................................................................. 22
+1.9 Dynamics, Articulations, Slurs, Tempo Markings .......................................................................... 24
+1.10 Summary of Notation Guidelines..................................................................................................... 26
+Chapter 2: Major and Minor Scales and Keys ..............................................................................29
+2.1 Major Scales ............................................................................................................................................ 30
+2.2 The Circle of Fifths ................................................................................................................................ 32
+2.3 Learning Major Key Signatures .......................................................................................................... 33
+2.4 Minor Scales: Two Roads ..................................................................................................................... 34
+2.5 Key Signatures Self-Study Tips .......................................................................................................... 36
+2.6 Scale Degree Names............................................................................................................................... 38
+2.7 Major and Natural Minor Scales for Piano ....................................................................................... 39
+Chapter 3: Intervals and Transposition .........................................................................................41
+3.1 Introduction to Intervals ....................................................................................................................... 42
+3.2 Mastering Intervals 1 ............................................................................................................................. 44
+3.3 Mastering Intervals 2 ............................................................................................................................. 46
+3.4 Transposition .......................................................................................................................................... 48
+Chapter 4: Triads and Seventh Chords ..........................................................................................51
+4.1 Introducing Triads ................................................................................................................................. 52
+4.2 The Major Triads: Spell Them Quickly............................................................................................. 54
+4.3 Spelling Triads in Four Steps .............................................................................................................. 55
+4.4 Seventh Chords....................................................................................................................................... 56
+4.5 Common Chord Reference Chart........................................................................................................ 57
+4.6 Basic Lead Sheet Symbols .................................................................................................................... 58
+Chapter 5: Introduction to Harmonic Analysis ............................................................................59
+5.1 Texture in Music..................................................................................................................................... 60
+5.2 Roman Numerals.................................................................................................................................... 62
+5.3 Harmonic progression ........................................................................................................................... 64
+5.4 Harmonic Analysis 1: Homophonic Texture..................................................................................... 66
+5.5 Nonchord Tones 1 .................................................................................................................................. 68
+5.6 Nonchord Tones 2: Suspensions ......................................................................................................... 70
+5.7 Second Inversion Triads ....................................................................................................................... 71
+5.8 Harmonic Analysis 2: Polyphonic Texture........................................................................................ 73
+Appendices: Solfège and Rhythmic Syllables .............................................................................75
+Appendix 1: Solfège Syllables ................................................................................................................... 76
+Appendix 2: Rhythmic Counting Syllables ............................................................................................ 78
+Postlude: Review, Resources, Index ...............................................................................................81
+Remember-Forever Review: Music Theory Fundamentals.................................................................. 82
+Music Theory Fundamentals: More Resources ...................................................................................... 85
+Index ............................................................................................................................................................... 86
+
+v
+Foreword:
+W H A T I S H I G H - Y I E L D M U S I C T H E O R Y ?
+The core principles guiding high-yield music theory are:
+1. Assume no prior knowledge.
+2. Build one concept at a time.
+3. Get to the POINT!
+The latest editions of this study reference are available at LearnMusicTheory.net.
+Eventually there will be multiple volumes, covering Music Theory
+Fundamentals; Harmony; Jazz, Pop, and Contemporary Music Theory
+(including Twentieth-Century Music); and Form in Music.
+The format for each volume is consistent:
+1. The left column lists terms to help you organize your study and find
+topics quickly.
+2. Bold indicates key concepts.
+3. Each volume ends with a Remember-Forever Review and More
+Resources.
+Students can…
+…read it before or after your primary text for a music theory course.
+…use it as an efficient review before entrance exams, barriers, etc.
+…use it as a theory reference book by looking up terms in the index.
+…use it to quiz or tutor your fellow students.
+…check out the great resources listed under “More Resources.”
+Teachers can…
+…use it as a class lecture outline along with your favorite theory text.
+…use it as a review guide after presenting the material with your
+favorite text.
+…use the Remember-Forever Review section before final exams.
+…require students to purchase one or more volumes for extra study.
+…use it as a primary textbook alongside your favorite workbook or
+music anthology.
+Philosophy
+Volumes
+Format
+Students: how to
+use this guide
+Teachers: how to
+use this guide
+
+Chapter 1
+MU S I C N O T A T I O N
+1.1 Staves and Clefs: elements of music, staff, note names, clef, treble clef, bass clef, ledger lines,
+grand staff, C clefs, alto clef, tenor clef
+1.2 The Chromatic Scale and the Piano: piano keyboard diagram, pattern of piano keyboard, half
+step, accidentals, whole step, natural half steps, enharmonic notes, scale, chromatic scale
+1.3 All About Octaves: octave, middle C, ledger lines between the staves, American Standard octave
+designations, Helmholtz octave designations, ottava, quindicesima, octave clef
+1.4 Rhythmic Values: duration, rhythmic value, rhythm, notehead, stems, flags, beams, rests, ties,
+augmentation dots, double-dotted notes
+1.5 Time Signatures in Simple Meter: beat, measure, bar, barline, time signature, beat unit, simple
+time signature, duple, triple, quadruple, beat division and subdivision, cut time, alla breve, common
+time, anacrusis, downbeat, strong beat, weak beat, stress patterns
+1.6 Compound and Asymmetric Meter: compound time signatures, tempo and meter, asymmetric
+time signatures, anacrusis and stress patterns in compound meter, summary of time signatures
+1.7 Tuplets/Grouplets: tuplets, grouplets, triplets, quintuplets, sextuplets, septuplets, brackets,
+duplets and quadruplets (compound time signatures), duplets and quadruplets as dotted values
+1.8 Repeat Signs and Repeated Sections: simple repeats, first and second endings, D.C. al fine, D.S.
+al coda, D.S. al fine, D.C. al coda, repeated beat, repeated measure, two-measure repeat
+1.9 Dynamics, Articulations, Slurs, Tempo Markings: dynamics, articulations, slurs, bowings,
+fermatas, breath marks, caesura/grand pause, crescendo, diminuendo, decrescendo, tempo, BPM,
+M.M., Italian tempo indications
+1.10 Summary of Notation Guidelines: staves, system, clefs, noteheads, accidentals, stems, beams,
+rhythm and meter, key signatures
+8 LearnMusicTheory.net High-Yield Music Theory, Vol. 1: Music Theory Fundamentals
+Section 1.1
+S T A V E S A N D C LEFS
+The fundamental elements of music are pitch (the highness/lowness of the
+notes), duration (how long the notes last), timbre (overall type of sound
+such as trumpet versus clarinet), and dynamics/loudness. Some authors
+add frequency (the speed of the physical vibration making the sound) and
+texture (see 5.1 Texture in Music).
+A staff (plural: staves) uses five parallel lines to notate (write down) the
+pitch aspect of music. Higher-pitched notes are written higher on the staff.
+Staff lines are numbered 1 to 5, starting from the bottom line. Note names
+from low to high are the letters A, B, C, D, E, F, G, then repeating A, B, C…
+A clef indicates which note names go on which lines (and spaces between
+the lines) on the staff. Clefs are written at the start of the staff. Treble clef
+designates the second line from the bottom as G. The lines in treble clef
+represent the pitches E, G, B, D, and F. The spaces are F, A, C, and E.
+Bass clef designates the fourth line from the bottom as F. The lines in bass
+clef represent the pitches G, B, D, F, and A. The spaces are A, C, E, and G.
+&
+G, so...
+staff
+treble clef
+D E F G A B C D E F G line 1
+line 5
+&
+lines: E
+Every Good Boy Does Fine
+G B D F spaces:
+&
+D
+F-A-C-E spells face
+F A C E G
+w
+w w w w w w w w w w w
+w w w w w
+w w w w w w
+?
+F, so...
+staff
+bass clef
+F G A B C D E F G A B
+?
+lines: G
+Good Boys Do Fine Always
+B D F A spaces:
+?
+F
+All Cars Eat Gas
+All Cows Eat Grass
+A C E G B
+w
+w w w w w w w w w w w
+w w w w w
+w w w w w w
+Elements of
+music
+Staff
+Note names
+Clef
+Treble clef
+Bass clef
+Chapter 1: Music Notation 9
+Ledger lines are small lines that extend the staff higher and lower. They
+can be used with any clef. Ledger lines belong to a single note; they never
+connect to ledger lines for surrounding notes.
+A grand staff is a treble clef staff and bass clef staff connected with a brace.
+Piano music uses a grand staff, along with instruments such as harp and
+marimba. Sometimes vocal (choir) music is also notated using a grand staff.
+All C clefs indicate where C is on the staff. Alto clef is a C clef centered on
+the third line from the bottom, designating it as C. Parts for the viola (a
+string instrument in the violin family) almost always use alto clef.
+Tenor clef is a C clef centered on the fourth line from the bottom,
+designating it as C. Bassoon and trombone music occasionally uses tenor
+clef, although both instruments more commonly read bass clef.
+&
+A
+C
+B
+B A
+C
+G
+D ledger lines
+?
+C
+E D
+D
+C
+E
+B
+F
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+&
+E
+brace
+G B D F D F A C E G
+?
+G
+grand
+staff
+B D F A F A C E G B
+w w w w w
+w w w w w w
+w w w w w
+w w w w w w
+B
+C, so...
+staff
+alto clef
+E F G A B C D E F G A
+w
+w w w w w w w w w w w
+B
+C, so...
+staff
+tenor clef
+C D E F G A B C D E F
+w
+w w w w w w w w w w w
+Ledger lines
+Grand staff
+C clefs
+Alto clef
+Tenor Clef
+10 LearnMusicTheory.net High-Yield Music Theory, Vol. 1: Music Theory Fundamentals
+Section 1.2
+T H E C H R O M A T I C S C A L E A N D T H E P I A N O
+This section uses the piano, but the concepts apply to other instruments
+and voice also. The piano repeats a pattern: groups of two black keys
+alternate with groups of three. Every white key just to the left of a group of
+two black keys is labeled as C. After G, the letter names start over with A.
+2 black keys 3 black keys 2 black keys 3 black keys
+C D E F G A B C D E F G A B
+A half step is the distance from one piano key to the next closest (whether
+it happens to be white or black). E to F is a half step, because E and F are
+next to one another. Similarly, B to C is a half step. E to F and B to C are the
+only natural half steps because they use letter names without accidentals.
+The black keys use the letter of an adjacent white key plus a modifier called
+an accidental. The most common accidentals are:
+1. b = flat; one half step lower than (left of) a white key
+2. § = natural; cancels other accidentals; indicates white notes on a piano
+3. # = sharp; one half step higher than (right of) a white key
+C#
+or
+Db
+D#
+or
+Eb
+F#
+or
+Gb
+G#
+or
+Ab
+A#
+or
+Bb
+C#
+or
+Db
+D#
+or
+Eb
+F#
+or
+Gb
+G#
+or
+Ab
+A#
+or
+Bb
+C D E F G A B C D E F G A B
+Enharmonic notes are different names for the same piano key. For
+example, the black key called C sharp is one half step above C, but also one
+half step below D. C sharp is enharmonic with D flat. White keys also have
+enharmonic names: B raised one half step with a sharp is the white key C.
+Pattern of the
+piano keyboard
+Half step
+Natural half steps
+Accidentals
+Flat, natural,
+sharp
+Enharmonic
+notes
+Chapter 1: Music Notation 11
+A double flat lowers a flat note by another half step, keeping the same
+letter name. Double flats are thus two half steps lower than the white key
+(natural) note. Similarly, a double sharp (looks like an x) raises a sharp
+note by another half step, keeping the same letter name. Double sharps are
+two half steps higher than the white key (natural) note.
+Db D# Cº C#
+Dº D DX Cb C CX
+The piano keyboard below shows all the enharmonic names for the keys.
+C#
+Db
+BX
+D#
+Eb
+Fº
+F#
+Gb
+EX
+G#
+Ab
+A#
+Bb
+Cº
+C#
+Db
+BX
+D#
+Eb
+Fº
+C
+B#
+Dº
+D
+CX
+Eº
+E
+DX
+Fb
+F
+E#
+Gº
+G
+FX
+Aº
+A
+GX
+Bº
+B
+AX
+Cb
+C
+B#
+Dº
+D
+CX
+Eº
+E
+DX
+Fb
+A whole step is two half steps. For instance, for C up to D, the two half
+steps are C to C# and C# to D.
+A scale (from the Italian word for ladder) is a series of notes from low to
+high (or high to low) following some pattern of whole steps and half steps.
+A chromatic scale lists all the notes (white and black keys) in order, usually
+from C to the next C above or below. Chromatic scales use only half steps.
+Ascending chromatic scales use sharps for black piano keys. Descending
+chromatic scales use flats for black piano keys.
+&
+C
+Ascending chromatic scale (uses sharps for black keys)
+C# D D# E F F# G G# A A# B C
+&
+C
+Descending chromatic scale (uses flats for black keys)
+B Bb A Ab G Gb F E Eb D Db C
+w #w w #w w w #w w #w w #w w w
+w w bw w bw w bw w w bw w bw w
+Double flat
+Double sharps
+All enharmonics
+Whole step
+Scale
+Chromatic scale
+12 LearnMusicTheory.net High-Yield Music Theory, Vol. 1: Music Theory Fundamentals
+Section 1.3
+A LL A B O U T O C T A V E S
+An octave is the distance from a note up or down to the next note with the
+same name. For example, from the pitch A up to the next A is one octave.
+Octaves span eight letter names: A-B-C-D-E-F-G-A = 1-2-3-4-5-6-7-8.
+Middle C is the C just to the left of center on the piano keyboard; it is near
+the “middle” of the piano. In treble clef, middle C is one ledger line below
+the staff. In bass clef, middle C is one ledger line above the staff. On C clefs,
+including alto clef and tenor clef, middle C is at the center of the clef sign.
+All of the notes below represent exactly the same piano key (middle C).
+In a grand staff, middle C is notated differently depending on whether it is
+in the treble or bass clef. Middle C is literally the “middle” ledger line, one
+line below the treble clef and one line above the bass clef.
+Ledger lines may occur between the staves to make it clear whether the
+notes are in the treble clef (or right hand) part or bass clef (left hand) part.
+&
+middle C
+B
+middle C
+_ _ _ _ _ _ _ _ _ _ _ _ _ B _ _ _ _ _ _ _ _ _ middle C
+?
+middle C
+w w w w
+&
+middle C
+?
+w
+w
+&
+middle C
+melody in treble clef staff
+=
+= same pitches
+in bass clef staff &
+? ?
+middle C w w w
+w
+w w w
+w
+Octave
+Middle C
+Middle C on the
+grand staff
+Ledger lines
+between the
+staves
+Chapter 1: Music Notation 13
+In American Standard (or Scientific) Pitch Notation, The octaves are
+numbered, with middle C being C4. Every C begins a new octave number,
+so the B just below C4 is B3, and the D just above C4 is D4. Accidentals
+don’t change the octave; B#4 = C5, and Cb5=B4.
+Helmholtz pitch notation is used widely in Europe and older science
+publications. Middle C is c’ (read “one-line C”). Octaves are C,, (“subcontra
+C”); C, (“contra C”); C (“great C”); c (“small C”); c’ (“one-line C”=Middle
+C); c’’ (“two-line C”); c’’’ (“three-line C”); and c’’’’ (“four-line C”).
+The ottava symbol (8va) raises a note by one octave, while the ottava bassa
+(8vb) lowers a note by one octave. Ottava always appears above the staff,
+and ottava bassa appears below the staff. Similarly, quindicesima (15ma)
+raises a note two octaves; quindicesima bassa lowers a note two octaves.
+The octave clef lowers the music an octave; it is often used for tenor voice.
+&
+middle C
+?
+C1 C2 C3 C4 (C4) C5 C6 C7
+w
+w
+w
+w
+w
+w
+w
+w
+& “” ottava:
+=
+=8ve up
+&
+ottava bassa:
+?
+“‘
+=
+=8ve down
+?
+w
+w
+w
+w
+& ◊ÿ quindicesima:
+=
+ =two 8ves up
+&
+quindicesima bassa:
+?
+◊Ÿ
+=
+=two 8ves down
+?
+w
+w w
+w
+&
+‹ octave clef
+= & treble clef
+w
+w
+American
+Standard octave
+designations
+Helmholtz octave
+designations
+Ottava
+Quindicesima
+Octave clef
+14 LearnMusicTheory.net High-Yield Music Theory, Vol. 1: Music Theory Fundamentals
+Section 1.4
+R H Y T H M I C V A L U E S
+Duration is how long a note lasts. A rhythmic value is a symbol indicating
+relative duration (see table below). A rhythm is a series of rhythmic values.
+Rhythmic values indicate relative duration, not absolute duration. Each
+rhythmic value is half the duration of the next longer value. Shorter note
+values (64th notes, etc.) are also possible.
+The oval part of the note is called the notehead. Notes shorter than whole
+notes have a stem attached to the notehead. Notes shorter than quarters
+have flags or beams, depending on the rhythmic context (see 1.10
+Summary of Notation Guidelines). Eighth notes have one flag (or beam),
+sixteenth notes have two flags (or two beams), and so on. The position of
+the notehead on the staff indicates the pitch of the note.
+whole
+note
+breve
+whole = half of a breve
+etc. half
+note
+half = half of a whole
+quarter
+note
+8th = half of
+a quarter OR
+8th = 8th of
+a whole note
+quarter = half of a half note OR
+quarter = one quarter of a whole
+eighth
+note
+16th
+note
+etc.
+32nd
+note
+W
+w w
+˙ ˙
+œ œ œ œ
+œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+(2 eighth notes with flags) = (2 eighth notes beamed together)
+Notehead
+Stem ee =
+Flag
+iq Beam
+Duration
+Rhythmic value
+Rhythm
+Rhythmic values
+Notehead
+Stems
+Flags
+Beams
+Chapter 1: Music Notation 15
+Rests are similar to notes, but indicate lengths of silences. A breve rest is
+twice as long as a whole rest, a whole rest is twice as long as a half rest, and
+so on. Remember that a whole note looks like a “hole” in the ground.
+A tie combines rhythmic values together. For example, two eighth notes
+tied together make a rhythmic value equal to one quarter note. Ties connect
+notes of the same pitch. Ties never connect rests.
+An augmentation dot on any note or rest adds half the duration. The
+rhythmic value is said to be “dotted.” For example, a dotted half note
+equals a half note plus a quarter note, since a quarter note is half of a half
+note. Similarly, a dotted quarter note equals a quarter note plus an eighth
+note, since an eighth note is half of a quarter note.
+A second augmentation dot (if present), adds half the first dot’s value.
+Rhythmic values with two dots are “double-dotted.” For example, a
+double-dotted half note equals a half note plus a quarter note (for the first
+dot) plus an eighth note (half of a quarter note, for the second dot). Doubledotted
+notes are 1.75 times as long (1+0.5+0.25) as the undotted value.
+breve whole half quarter eighth sixteenth thirty-second Ú ∑ Ó Œ ‰ ≈ ®
+e( e = q and x( x( x( x = q and q( q = h etc.
+Tie
+h. (dotted half note) = h + q = q + q + q
+q. (dotted quarter note) = q + e = e + e + e
+h.. (double-dotted half note) = h + q + e
+q.. (double-dotted quarter note) = q + e + x
+Rests
+Ties
+Augmentation
+dots (dotted
+rhythmic values)
+Double-dotted
+notes
+16 LearnMusicTheory.net High-Yield Music Theory, Vol. 1: Music Theory Fundamentals
+Section 1.5
+T I M E S I G N A T U R E S I N S I M P L E M E T E R
+A beat is a repeating musical pulse. Listeners sense the beat when they tap
+their feet or clap their hands in time with the music. Musicians group beats
+into units called measures or bars. Every measure ends with a barline. A
+special final barline indicates the end of the movement or piece.
+A time signature (or meter signature) indicates how many beats there are
+in one measure and what rhythmic value gets one beat (this value is called
+the beat unit). For time signatures in simple meter, the top number is the
+number of beats in each measure, and the bottom number is the beat unit.
+Time signatures are not fractions, so there is no line between the numbers.
+Meters (that is, time signatures) with two beats per measure are duple,
+those with three beats are triple, and those with four beats are quadruple.
+Each beat in simple meter divides into two equal beat divisions, or four
+equal beat subdivisions. Below, one quarter note beat equals two eighth
+notes or four sixteenth notes; see 1.4 Rhythmic Values.
+&
+measure or bar measure or bar
+barline
+measure or bar
+final barline
+œ œ œ œ œ œ ˙ œ œ ˙
+4 & 4
+1
+4
+4
+2
+= 4 beats in each measure
+= q gets one beat
+
+3 4 1 2 3 4 1 2 3 4
+œ œ œ œ œ œ ˙ œ œ ˙
+2
+4
+3
+4
+4 & 4
+1
+Duple meter:
+ = 2 beats
+ = q gets beat
+
+2
+4
+2
+& 1
+Triple meter:
+3
+4
+= 3 beats
+= q gets beat
+2 3
+& 1
+Quadruple meter:
+4
+4
+= 4 beats
+= q gets beat
+
+2 3 4
+œ œ œ œ œ œ œ œ œ
+2
+4
+2
+4
+2 & 4
+1
+Beat units:
+2
+_
+_
+_ & 1
+Beat divisions:
+2
+_
+_
+_ & 1
+Beat subdivisions:
+2
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+Beat
+Measure
+Bar, Barline
+Final barline
+Time signature
+Beat unit, Simple
+time signature
+Duple, Triple,
+Quadruple
+Beat division and
+subdivision
+Chapter 1: Music Notation 17
+The bottom number in a simple time signature indicates the beat unit: two
+means half note, four means quarter, eight means eighth, and so on. The
+first time signature below is also called cut time or alla breve. The second
+time signature is common in Baroque music; sometimes the eighth notes
+are written with flags instead of beamed together. The last time signature is
+sometimes called common time.
+An anacrusis (or pickup measure) is a partial measure that begins some
+pieces. An anacrusis is often one beat long, but not always. If there is an
+anacrusis, the final measure will be shortened so that the anacrusis and the
+final, shortened measure together equal the length of one regular measure.
+The downbeat is the first beat of each measure. The downbeat is
+fundamental and stable (a strong beat) because it initiates each new group
+of beats. The last beat of each measure is unstable (a weak beat) because it
+pulls forward to the following measure. The last beat of a measure often
+seems to have more energy than the downbeat, because it propels the
+rhythm forward to the more stable, stronger downbeat.
+The following stress patterns for beats are common:
+1. Duple meters: Meters with two beats follow a STRONG-weak stress
+pattern for the two beats.
+2. Triple meters: Meters with three beats follow a STRONG-weak-weak
+stress pattern for the three beats.
+3. Quadruple meters: Meters with four beats follow a STRONGESTweak-STRONG-weak
+pattern for the four beats.
+2
+2
+3
+8
+4 & 4
+1
+2
+2 is sometimes written
+2
+2
+ = 2 beats
+ = h gets beat
+2
+C
+& 1
+3
+8
+= 3 beats
+= e gets beat
+2 3
+& 1
+4
+4 is sometimes written
+4
+4
+= 4 beats
+= q gets beat
+2 3 4
+c
+˙ ˙ œ œ œ œ œ œ œ
+4 & 4
+1
+anacrusis
+ (pickup)
+1 2 3 4 1 2 3 4
+ shortened final bar
+(because of the anacrusis)
+1 2 3
+œ œ œ œ œ œ œ œ œ œ œ œ
+Other beat units
+Cut time
+Alla breve
+Common time
+Anacrusis
+Pickup measure
+Downbeat
+Strong beat
+Weak beat
+Stress patterns
+18 LearnMusicTheory.net High-Yield Music Theory, Vol. 1: Music Theory Fundamentals
+Section 1.6
+C O M P O U N D A N D A S Y M M E T R I C M E T E R
+Beats in compound time signatures divide into three division notes, not
+two. The top number indicates the number of division notes per measure.
+The bottom number indicates the division rhythmic value (not the beat
+unit). It takes three division notes (not two) to make one beat.
+A time signature with 6, 9, 12, or 15 on top is compound. To get the
+number of beats, divide the top number by three. The beat unit is a dotted
+rhythmic value one larger than the bottom number; sixteen on the bottom
+means a dotted-eighth beat unit, eight on the bottom means a dotted
+quarter, and so on. Compound time signatures can be duple, triple,
+quadruple, or even quintuple (five beats).
+Sometimes tempo can make a normally compound time signature into a
+simple time signature, or a normally simple time signature into a
+compound one. This is especially common if the top number is six or three.
+6 & 8
+1 2
+ = 6 division notes
+ = e is division of beat
+One beat = e + e + e = q.
+ 2 beats (Duple)
+6
+8 œ™
+œ œ œ
+œ™
+œ œ œ
+9
+16
+12 & 8
+1
+ = 9 division notes
+ = x is division of beat
+One beat = x + x + x = e.
+ 3 beats (TRIPLE)
+9
+16
+2 3
+&
+1
+ = 12 division notes
+ = e is division of beat
+One beat = e + e + e = q.
+ 4 beats (QUADRUPLE)
+12
+8
+2 3 4
+œ œœ
+œ™
+j
+œœœ
+œ™
+j
+œ œœ
+œ™
+j œ™
+œ œ œ
+œ™
+œ œ œ
+œ™
+œ œ œ
+œ™
+œ œ œ
+Very fast Very slow
+6
+4
+6 & 4
+1
+ = 6 division notes (2 beats)
+ = q is division of beat
+One beat = q + q + q = h.
+ Compound Duple
+6
+4
+2
+OR... &
+1 2
+6
+4 = 6 beats
+ = q is beat unit
+Simple Sextuple
+3 4 5 6
+œ
+˙™
+œ œ œ
+˙™
+œ œ
+œ
+œ œ
+œ
+œ œ
+œ
+œ œ
+œ
+œ œ
+œ
+œ œ
+œ
+œ œ
+Compound time
+signatures
+Decoding
+compound time
+signatures
+Tempo and Meter
+Chapter 1: Music Notation 19
+Asymmetric time signatures have a mixture of two and three-part beat
+divisions. The top number indicates the number of division notes per
+measure (often 5, 7, or 11, but varies). The bottom number indicates the
+division rhythmic value (not the beat unit). The beaming indicates beat
+groupings for individual beats.
+For time signatures in asymmetric meter, beats with three division notes
+will be longer than beats with two division notes. The length of the division
+note value, not the beat, must remain constant. In the left example below,
+the eighth note pulse remains constant, while in the right example the
+quarter note pulse remains constant. See 1.7 Tuplets/Grouplets for an
+explanation of the triplets in the right example.
+Music in compound meter may also include an anacrusis. If so, the last
+measure will be shortened by the amount of the anacrusis, as in simple
+meter. Stress patterns for duple, triple, and quadruple compound time
+signatures match those given at the end of 1.5 Time Signatures in Simple
+Meter.
+Simple time signatures are simple: the top number is the number of beats,
+and the bottom is the beat unit. Compound time signatures nearly always
+have 6, 9, 12, or 15 on top, indicating the number of division notes; the
+bottom number indicates the division rhythmic value. Asymmetric
+signatures have beats with unequal lengths. Like compound time
+signatures, asymmetric time signatures indicate the rhythmic value for one
+beat division, not the beat unit.
+5
+8
+7
+16
+11 & 8
+1
+ = 5 division notes
+ = e is division of beat
+ 2 beats (DUPLE)
+5
+8
+2
+&
+1
+ = 7 division notes
+ = x is division of beat
+ 3 beats (TRIPLE)
+7
+16
+2 3
+&
+1
+ = 11 division notes
+ = e is division of beat
+ 4 beats (QUADRUPLE)
+11
+8
+2 3 4
+œ™
+œ œœ
+œ
+œœ œœœ
+œ™
+j
+œœ
+œ
+j
+œœ
+œ
+j œ™
+œ œœ
+œ™
+œ œœ
+œ™
+œ œœ
+œ
+œœ
+5
+8
+2 & 4
+1 2
+...sounds
+different than... &
+1 2
+3
+œ™
+œ œ œ
+œ
+œ œ
+œ
+œ œ œ
+œ
+œ œ
+Asymmetric time
+signatures
+Performing
+asymmetric time
+signatures
+Anacrusis and
+stress patterns in
+compound meter
+Summary of time
+signatures and
+meter
+20 LearnMusicTheory.net High-Yield Music Theory, Vol. 1: Music Theory Fundamentals
+Section 1.7
+T U P L E T S / G R O U P L E T S
+The standard rhythmic values divide into 2 parts, then 4 parts, then 8 parts,
+and so on (see 1.4 Rhythmic Values). Tuplets (also called grouplets) fill in
+the gaps between these ratios. The word tuplets may be pronounced
+“tuplets” or “tooplets.”
+Triplets divide a rhythmic value into three equal parts, rather than two or
+four. The triplet uses the rhythmic value for a two-part division, the next
+longer duration. In the example below, the eighth note (a two-part
+division) is the next longer duration, so the triplet uses eighth notes.
+In simple time signatures (see 1.5 Simple Meter), tuplets/grouplets
+always use the next longer rhythmic value. Quintuplets (five equal parts),
+sextuplets (six equal parts), and septuplets (seven equal parts) all use the
+rhythmic value for a four-part division.
+Tuplet brackets should be used with the number on the notehead side
+when there isn't a beam (half notes, quarter notes, whole notes). Only
+tuplets that use half note and quarter note rhythmic values in the example
+above have brackets.
+ quarter note
+_
+2 parts
+_
+3 parts
+triplet
+_
+4 parts
+3
+œ œ œ œ œ œ œ œ œ œ
+ whole
+ note:
+1 part
+Read each staff left to right to see all the divisions.
+2 parts 3 parts
+triplet
+3 4 parts
+quintuplet
+5 parts 5
+sextuplet
+6 parts
+6
+septuplet
+7 parts 7 8 parts
+half
+note:
+3
+5 6 7
+ quarter
+ note:
+3 5 6 7
+w ˙˙ ˙˙˙ œœœœ œœœœœ œœœœœœ œœœœœœœ œœœœœœœœ
+˙ œœ œœœ œœœœ œœœœœ œœœœœœ œœœœœœœ œœœœœœœœ
+œ œ œ œœœ œœœœ œœœœœ œœœœœœ œœœœœœœ œœœœœœœœ
+Tuplets
+Grouplets
+Triplets
+Quintuplets
+Sextuplets
+Septuplets
+Tuplet brackets
+Chapter 1: Music Notation 21
+In compound time signatures (see 1.6 Compound and Asymmetric
+Meter), duplets and quadruplets look like the corresponding simple meter
+beat division.
+Duplets and quadruplets in compound time signatures may also be
+notated as ordinary dotted rhythmic values. In the example below, six
+sixteenths per beat divided into two halves gives three sixteenths for each
+half of the beat.
+Nonstandard tuplets or tuplets that may be unclear are sometimes
+indicated with an explicit ratio. Extremely rarely, tuplets may also be
+nested.
+6
+8
+2
+4
+6
+8
+2
+4
+Duplets:
+q. = beat unit
+looks
+like...
+q = beat unit
+2 2
+Quadruplets:
+q. = beat unit
+looks
+like...
+q = beat unit
+4 4
+œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+6
+8
+6
+8
+6
+8
+Groups of 3 tied sixteenths
+= = dotted eighths
+=
+= duplet eighths
+2 2
+œ œ œ
+œ œ œ
+œ œ œ
+œ œ œ
+œ™ œ™
+œ™ œ™ œ
+œ
+œ
+œ
+4
+4
+4
+4
+5:4 = 5 in the space
+normally taken by 4
+5:4
+OR showing the
+rhythmic value ( 5:4q ):
+5:4q
+œ œ œ œ œ œ œ œ œ œ
+Duplets and
+quadruplets
+(compound time
+signatures)
+Duplets and
+quadruplets as
+dotted values
+Nonstandard
+tuplets
+22 LearnMusicTheory.net High-Yield Music Theory, Vol. 1: Music Theory Fundamentals
+Section 1.8
+R E P E A T S I G N S A N D R E P E A T E D S E C T I O N S
+The end repeat sign tells the performer to go back one time to the start
+repeat sign, or, if there is no start repeat, the beginning of the movement.
+First and second endings indicate different music to be played the first and
+second times. “2x only” (not shown below) means play that music the
+second time only. Third and higher endings are also possible.
+D.C. (da capo, “from the head”) means repeat back to the start of the piece.
+Al fine means after repeating back, play to the fine marking. Traditionally,
+musicians skip over any first endings after they go back for a D.C. (or D.S.)
+repeat. The numbers in the example below indicate: (1) play through the
+first ending; (2) repeat back to measure 1; (3) jump to the second ending; (4)
+play to the last written measure; 5) D.C. to the “head” (start); and
+(6)/(7)/(8) play through to the Fine, skipping any first endings and
+stopping at the end of the measure with the Fine marking.
+™
+™ ™
+™ 4 & 4
+# start repeat sign end repeat sign
+˙ ˙ œ œ œ œ œ œ œ Œ œ œ œ Œ
+1.
+™
+™
+2.
+4 & 4
+#
+œ œ œ œ œ œ œ Œ œ œ œ Œ œ œ œŒ œ œ œ œ ˙™ Œ
+1.
+™
+™
+2. Fine D.C. al fine
+1.
+™
+™
+2. Fine D.C. al fine
+1.
+™
+™
+2. Fine D.C. al fine
+2
+4
+2
+4
+2
+4
+&#
+‚
+5 ·
+&#
+„
+5
+‰
+&#
+Â
+Ê
+Á
+5
+Ë
+5
+œ œ ˙ œ œ œ ˙
+œ
+j œ œ
+j œ Œ
+œ œ ˙ œ œ œ ˙
+œ
+j œ œ
+j œ Œ
+œ œ ˙ œ œ œ ˙
+œ
+j œ œ
+j œ Œ
+Simple repeats
+1st and 2nd
+endings
+D.C. al fine
+(Da capo al fine)
+Chapter 1: Music Notation 23
+D.S. (dal segno) means repeat back to a special sign (see example below;
+segno means sign) and al coda means after repeating back, play to the coda
+mark, then jump to the coda (coda means tail). The numbers in the example
+below indicate: (1) play from the start to the D.S. al coda break; (2) repeat
+back to the sign (dal segno); (3) play until the “jump to coda” symbol; and
+(4)/(5) jump to the coda and play to the end. D.S. al fine (not al coda) and
+D.C. al coda (not al fine) are also common possibilities.
+The repeated beat symbol is used only in handwritten music and parts for
+rhythm instruments such as guitar, drums, or sometimes piano.
+The repeated measure/bar is used only for drums, piano, or guitar.
+The two-measure repeat is used only for drums, piano, or guitar. Fourmeasure
+repeats are also possible; they use four slashes and the number
+four, not two. To repeat more than four measures, use a simple repeat sign.
+$ to Coda Ø D.S. al coda Ø Coda
+$ to Coda Ø D.S. al coda Ø Coda
+2
+4
+2
+4
+&#
+·
+‚
+5
+&#
+&#
+„ ‰
+5
+&#
+Â
+œ œ ˙ œ œ œœŒ
+œ
+j œ œ
+j œ Œ œ
+œ
+œ ˙
+œ œ ˙ œ œ œœŒ
+œ
+j œ œ
+j œ Œ œ
+œ
+œ ˙
+3 & 4 œ
+œ
+œ ? ? = & œ
+œ
+œ
+œ
+œ
+œ
+œ
+œ
+œ
+2
+4
+2 & œ ‘ = & 4
+œ
+œ
+œ
+œ
+œ
+3
+4
+3 & • 4
+2
+˙™ œ œ œ = & ˙™ œ œ œ ˙™ œ œ œ
+D.S. al coda
+Dal segno al coda
+D.S. al fine
+D.C. al coda
+Repeated beat
+Repeated
+measure
+Two-measure
+repeat
+24 LearnMusicTheory.net High-Yield Music Theory, Vol. 1: Music Theory Fundamentals
+Section 1.9
+D Y N A M I C S , A R T I C U L A T I O N S , S L U R S ,
+T E M P O M A R K I N G S
+Dynamics are used to indicate relative loudness:
+ppp = pianississimo = very, very soft
+pp = pianissimo = very soft
+p = piano = soft
+mp = mezzo-piano = medium-soft
+mf = mezzo-forte = medium-loud
+f = forte = loud
+ff = fortissimo = very loud
+fff = fortississimo = very, very loud
+fp = forte followed suddenly by piano; also mfp, ffp, etc.
+sfz = sforzando = a forceful, sudden accent
+fz is forceful but not as sudden as sfz
+Articulations specify how notes should be performed, either in terms of
+duration or stress. Staccatissimo means extremely shortened duration.
+Staccato means shortened duration. Tenuto has two functions: it can mean
+full duration OR a slight stress or emphasis. Accent means stressed or
+emphasized (more than tenuto). Marcato means extremely stressed. An
+articulation of duration (staccatissimo, staccato, or tenuto) may combine
+with one of stress (tenuto, accent, or marcato).
+Slurs are curved lines connecting different pitches. Slurs can mean: (1.)
+connect the notes as a phrase; (2.) for string instruments: play with one
+motion of the bow (up or down); (3.) for voice: sing with one syllable, or
+(4.) for wind instruments: don’t tongue between the notes.
+&
+staccattisimo
+articulations of duration
+staccatto tenuto
+articulations of stress
+accent marcato
+œ
+Æ
+œ
+. œ
+- œ
+> œ
+^
+2
+4 ?b
+b œ œ œ œ ˙
+Dynamics
+Articulations
+Slurs
+Bowings
+Chapter 1: Music Notation 25
+Fermatas indicate that the music stops and holds the note until the
+conductor or soloist moves on. Musical context, style, and taste determine
+how long a fermata actually lasts. Breath marks indicate a quick break, or
+for a wind instrument like trumpet or voice, a breath. The caesura
+(sometimes “grand pause” or G.P.) indicates a full stop and pause before
+the music continues.
+Crescendo signs and diminuendo signs indicate a gradual increase or
+decrease in loudness, respectively. The words crescendo (cresc.),
+diminuendo (dim.), or decrescendo (decresc.) are sometimes written
+instead.
+Tempo is the speed of the beat, usually given in beats per minute (BPM).
+Sometimes BPM is labeled M.M. for Maelzel’s metronome. (Johann Maelzel
+promoted and improved the metronome in the 1800s.) The
+crescendo/diminuendo examples above show a tempo label of 60 quarter
+notes per minute, or one quarter note each second.
+Musicians use many Italian terms for tempo. Some of the more common, in
+order from slowest to fastest, are: Grave (solemn), Largo (very slow and
+broad), Lento (very slow), Adagio (slow), Andante (walking pace,
+moderately slow), Moderato (moderate), Allegro (fast), Vivace (lively), and
+Presto (very fast).
+&
+fermata short
+fermata long
+fermata
+breath
+ mark
+,
+caesura
+U
+œ
+≈
+œ
+√
+œ œ "
+q = 60 q = 60
+q = 60 q = 60
+2
+4
+2
+4
+2
+4
+2
+4
+?b
+b
+p
+crescendo sign = gradually louder
+f
+= ?b
+b
+p cresc. f
+?b
+b
+f
+decrescendo sign = gradually softer
+p
+= ?b
+b
+f dim. p
+œ œ œ œ ˙
+œ œ œ œ ˙
+œ œ œ œ ˙
+œ œ œ œ ˙
+Fermatas
+Breath marks
+Caesura
+Grand pause
+Crescendo
+Diminuendo
+Decrescendo
+Tempo
+BPM / M.M.
+Italian tempo
+indications
+26 LearnMusicTheory.net High-Yield Music Theory, Vol. 1: Music Theory Fundamentals
+Section 1.10
+S U M M A R Y O F N O T A T I O N G U I D E L I N E S
+This is only an introduction to standard notation practice. For exhaustive
+guidelines, see the affordable and excellent book The Essential Dictionary
+of Music Notation by Tom Gerou and Linda Lusk (Alfred Publishing,
+1996).
+Guidelines for clefs and staves:
+1. Lines and spaces are numbered from bottom to top. Lines: 1 to 5;
+Spaces: 1 to 4.
+2. The plural of staff is staves. One line of music in a score is a system,
+which may have many staves for the individual musicians.
+3. The treble clef always circles around the "G" line (2nd line).
+4. The two dots in the bass clef always surround the "F" line (4th line).
+5. The center of any C clef always indicates middle C (C4).
+Guidelines for noteheads and accidentals:
+6. Noteheads should be as tall as 1 space.
+7. Noteheads should be oval and slightly slanted (see figure).
+8. Whole notes are oval but do not slant.
+9. Normally, accidentals immediately precede the notehead to which
+they apply.
+10. If a chord requires 2 accidentals on notes closer than a sixth, write the
+upper accidental directly to the left of its notehead, and the lower
+accidental by its notehead staggered to the left (see 10 below).
+11. For > 2 accidentals, stagger them as shown in figure 11 below.
+?
+lines
+12
+1
+3
+45
+1
+spaces
+2 3 4
+Yes
+3
+& z
+NO!
+&
+NO!
+&z
+Yes
+4
+?
+NO!
+z
+?
+NO!
+z
+?
+Yes
+5
+B
+&
+Yes
+6
+NO!
+z
+NO!
+z
+Yes
+7
+Yes
+8
+Yes
+9
+NO!
+z
+NO!
+#
+z
+10
+Yes
+z
+NO!
+z
+NO!
+11
+Yes Yes Yes
+œ å ™ ˙ w #œ
+J
+œ#
+J
+œ
+J
+œœœ
+## œœœ
+#
+# œœœ
+## œœœ
+#
+##
+œœœœ
+#
+###
+œœœœœœ
+#
+##
+##
+#
+Disclaimer
+Staves
+System
+Clefs
+Noteheads
+ Accidentals
+Chapter 1: Music Notation 27
+Guidelines for stems on notes:
+12. 3rd line and above - stems down; below 3rd line – stems up. If two
+parts are in one staff, use stems up for the higher part, down for the
+lower.
+13. Stems down go on the left of the notehead, stems up on the right of the
+notehead.
+14. Stem length is normally one octave.
+15. Stems for notes using ledger lines extend to the 3rd line, regardless of
+how high or low they are.
+16. When notating seconds, the higher pitch goes on the right. If the stem
+goes up, it connects to the lower pitch. If the stem goes down, it
+connects to the higher pitch. However, if there are two voices on one
+staff stating a 2nd, the higher pitch's notehead goes on the left (see the
+last example for item 16 below).
+Guidelines for beams on notes:
+17. For beamed notes, stems should go up or down based on the note
+farthest from the middle line.
+18. Beam notes in the same beat together (see also item 22, next page).
+19. Beams should be about twice the thickness of stems and may slant
+slightly if the notes ascend or descend.
+&
+Yes
+12
+YesYesYes NO!
+z
+NO!
+z
+Yes
+13
+NO!
+z
+ì
+YesNO!
+z
+ì
+Yes
+14
+Yes NO!
+z
+NO!
+z
+Yes
+15
+YesNO!
+z
+Yes
+16
+YesNO!
+zì
+NO!
+ì
+z
+Yes Yes Yes
+œ
+œ
+œ
+œ
+œ
+œ œ œ
+œ œ
+œ
+œ
+œ
+œ
+œ
+œ
+œ
+œœœœ
+œœ
+œœ
+œ
+œ
+œœœœ
+œœ œœ
+4
+4
+4
+4
+9
+8
+9
+8
+&
+17 Yes
+Yes NO!
+z
+z
+NO!
+I
+Yes - Beams follow beats
+18 I I I NO-Beats unclear;
+ hard to read
+z z
+z
+& I
+Yes - Beams follow beats
+I I NO-Beats unclear; hard to read
+z z z
+&
+Yes
+19
+NO!
+z
+NO!
+z
+œœœ
+œ
+œ
+œœœ
+œ
+œœ
+œ
+œœ œœœœœœœœ™
+œœœ
+œ
+J
+œœœœœœœ™
+œœœ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+J
+œ œ œ œ œ œ œ
+œ œ œ œ œ œ
+Stems
+Beams
+28 LearnMusicTheory.net High-Yield Music Theory, Vol. 1: Music Theory Fundamentals
+Guidelines for rhythmic notation and meter:
+20. Observe the usual position of rests within the staff (may be adjusted
+when there are two parts in one staff).
+21. Dots for dotted rhythmic values are never placed on a staff line. If the
+notehead itself is on a staff line, the dot is put to the right of the note
+but in the space above it.
+22. Always attempt to use rhythmic notation to clarify the placement of
+beats in the meter. Use ties if needed.
+Guideline for key signatures:
+23. Key signatures must be written correctly for the given clef.
+4
+4
+4
+4
+6
+8
+6
+8
+&
+20 Whole rest="hole" in the ground
+I Take note of vertical positioning
+&
+Yes
+21
+Yes NO!
+z
+™
+Yes Yes Yes Yes Yes
+& I
+1 22
+Yes - Beats are clear
+2
+I I
+3
+I
+4
+&
+NO-Beats unclear; where
+are 2, 3, 4? Hard to read.
+z
+& I
+1
+Yes - Beats are clear
+I
+2
+&
+NO-Where is beat 2?
+Hard to read.
+z
+Ú ∑ Ó Œ ‰ ≈ ® Ù
+œ™ œ™ œ
+œ
+œ™
+™ œœ™
+™ œœ™
+™
+œ
+œ
+œœ
+™
+™
+™
+™
+j
+œ
+œ
+œœ
+™
+™
+™
+™ j
+œ™ œ
+J
+œ™ œ œ œ œ™ œ œ
+R œ™
+J
+œ
+J
+œ™ œ œ œ œ œ œ œ™ œ œ œ œ œ
+&#
+#
+#
+#
+#
+#
+#
+23
+&b
+b
+b
+b
+b
+b
+b ?#
+#
+#
+#
+#
+#
+# ?b
+b
+b
+b
+b
+b
+b
+B#
+#
+#
+#
+#
+#
+# Bb
+b
+b
+b
+b
+b
+b B#
+#
+#
+#
+#
+#
+# Bb
+b
+b
+b
+b
+b
+b
+Rhythm and
+meter
+Key signatures
+Chapter 2
+MA J O R A N D MI N O R S C A L E S A N D KE Y S
+2.1 Major Scales: major scale, key of C major, C major scale, tetrachord, G major scale, key signature,
+D major scale, A major, E major, F major, circle of fifths
+2.2 The Circle of Fifths: circle of fifths, enharmonic keys, flats and sharps, circle of fifths diagram
+2.3 Learning Major Key Signatures: flats/sharps on the staff, pairs add to seven (shortcut)
+2.4 Minor Scales: Two Roads: minor scale, relative keys, relative minor method, relative minor with
+adjustment, parallel key method, melodic minor, harmonic minor
+2.5 Key Signatures Self-Study Tips: order of flats in key signatures, order of sharps in key
+signatures, finding the key given a key signature, Frank/Metz key signature tool, the ultimate
+shortcut
+2.6 Scale Degree Names: scale degrees, caret, tonic, dominant, subdominant, mediant, submediant,
+supertonic, leading tone, subtonic
+2.7 Major and Natural Minor Scales for Piano: major scales, natural minor scales
+30 LearnMusicTheory.net High-Yield Music Theory, Vol. 1: Music Theory Fundamentals
+Section 2.1
+M A J O R S C A L E S
+The white piano keys from C to C form a C major scale. These eighth notes
+(C, D, E, F, G, A, B, and then C again) divide into two four-note scale
+segments called tetrachords:
+The lower tetrachord and the upper tetrachord each follow the major
+tetrachord pattern: W-W-h, with a whole step between them. To visualize
+the whole step/half step pattern shown above, review 1.2 The Chromatic
+Scale and the Piano. Remember that E to F and B to C are natural half
+steps (no accidentals needed).
+A piece of music that uses the C major scale for its melodies and harmonies
+is in the key of C major. The major scale can also start on notes other than
+C, as long as it follows the correct pattern of whole steps and half steps: WW-h,
+then W, then W-W-h again. A G major scale requires F sharp to create
+the E-F sharp whole step, since E to F is a natural half step.
+A key signature indicates the accidentals for the key at the start of each line
+of music instead of next to each note.
+& C
+lower tetrachord
+whole
+D
+whole
+E
+half
+F
+whole
+G
+whole
+upper tetrachord
+A
+whole
+B
+half
+C
+w w w w w w w w
+&
+G
+W
+lower tetrachord
+A
+W
+B
+h
+C
+W
+D
+W
+upper tetrachord
+E
+W
+F#
+h
+G
+w w w w w w #w w
+&#
+G
+W
+G major key signature
+A
+W
+B
+h
+C
+The sharp is in the key signature,
+so we don't need it here.
+W
+D
+W
+E
+W
+F#
+h
+G
+w w w w w w w w
+C major scale
+Tetrachord
+Major tetrachord
+Key of C major
+G major scale
+Key signature
+Chapter 2: Major and Minor Scales and Keys 31
+G is the fifth scale note in C major, and the G major scale has one more
+sharp than C major. Changing the key to the fifth scale note of a particular
+scale always adds a sharp (or takes away a flat). Since D is the fifth scale
+note of G (G, A, B, C, D), the D major scale uses two sharps. The added
+sharp is always one scale note below the new key.
+Continuing “up 5, add a sharp,” A major has three sharps, E major has
+four, and so on. Again, the new sharp in the key signature is always one
+scale note below the new key.
+Similarly, counting down five scale notes takes away a sharp (or adds a
+flat). For instance, C, B, A, G, F = 1, 2, 3, 4, 5. Since F is the fifth scale note
+down starting from C, F major has one more flat than C major. All flat keys
+follow the same pattern: counting down five scale notes adds a flat.
+&#
+#
+D
+W
+D major key signature (2 sharps)
+E
+W
+F#
+h
+G
+W
+A
+W
+B
+W
+C#
+h
+D
+w w w w w w w w
+&#
+#
+#
+A
+W
+A major key signature
+B
+W
+C#
+h
+D
+W
+E
+W
+F#
+W
+G#
+h
+A
+&#
+#
+#
+#
+E
+W
+E major key signature
+F#
+W
+G#
+h
+A
+W
+B
+W
+C#
+W
+D#
+h
+E
+w w w w w w w w
+w w w w w w w w
+&b
+F
+W
+F major key signature (1 more flat than C major)
+G
+W
+A
+h
+Bb
+W
+C
+W
+D
+W
+E
+h
+F
+&b
+b Bb
+W
+Bb major key signature (1 more flat than F major)
+G
+W
+A
+h
+Eb
+W
+F
+W
+G
+W
+A
+h
+Bb
+w w w w w w w w
+w w w w w w w w
+D major scale
+A major
+E major
+F major
+32 LearnMusicTheory.net High-Yield Music Theory, Vol. 1: Music Theory Fundamentals
+Section 2.2
+T H E C I R C L E O F F I F T H S
+The circle of fifths is a common way to arrange the keys so each key
+moving clockwise starts on the fifth note of the preceding key. Major keys
+are listed outside the circle, with minor keys inside. (For minor keys, see 2.4
+Minor Scales: Two Roads.) Enharmonic keys are written differently, but
+played the same on the piano keyboard, like B and C flat. Enharmonic keys
+share a box in the circle of fifths diagram.
+Moving clockwise moves up five scale notes and adds a sharp (or takes
+away a flat), while moving counterclockwise moves down five notes and
+adds a flat (or takes away a sharp). Always count the starting note as one.
+& P P P
+counterclockwise
+ adds one flat
+C major
+a minor L L L
+clockwise
+adds one sharp
+&b
+F
+d e
+&# G
+&b
+Bb b
+g b &#
+# D
+&b
+b Eb b c
+Circle
+ of
+Fifths f# &#
+#
+# A
+&b
+b
+b
+b
+Ab
+f c# &#
+#
+#
+#
+E
+&b
+b
+b
+b
+b
+Db
+bb
+C#
+a#
+&#
+#
+#
+#
+#
+#
+#
+g#
+B
+&#
+#
+#
+#
+#
+(enharmonic)
+ab
+Cb
+&b
+b
+b
+b
+b
+b
+b
+&b
+b
+b
+b
+b
+b
+(enharmonic)
+Enharmonic keys share a box.
+Gb
+eb
+(enharmonic)
+d#
+F#
+&#
+#
+#
+#
+#
+#
+Circle of fifths
+Enharmonic keys
+Flats and sharps
+Circle of fifths
+diagram
+Chapter 2: Major and Minor Scales and Keys 33
+Section 2.3
+L E A R N I N G M A J O R K E Y S I G N A T U R E S
+The order of flats on the staff is B-E-A-D-G-C-F, or BEAD-Greatest
+Common Factor. The order of sharps on the staff is F-C-G-D-A-E-B, or Fat
+Cats Go Down Alleys Eating Birds.
+For each letter name, there is a flat key and a sharp key. Only one will have
+an accidental in the key name (except C flat/C/C sharp). The total number
+of accidentals for the two keys always adds up to seven. For instance, G
+flat major has 6 flats, and G major has 1 sharp. See 2.5 Key Signatures SelfStudy
+Tips for more tips.
+C/C# &
+FLAT KEYS
+C
+0 flats +
+SHARP KEYS
+C#
+&#
+#
+#
+#
+#
+#
+# 7 sharps =7
+&b F/F#
+F
+1 flat +
+F#
+&#
+#
+#
+#
+#
+# 6 sharps =7
+&b
+b Bb/B
+Bb
+2 flats +
+B
+&#
+#
+#
+#
+# 5 sharps =7
+&b
+b E b b/E
+Eb
+3 flats +
+E
+&#
+#
+#
+# 4 sharps =7
+&b
+b
+b
+b Ab/A
+Ab
+4 flats +
+A
+&#
+#
+# 3 sharps =7
+&b
+b
+b
+b D b b/D
+Db
+5 flats +
+D
+&#
+# 2 sharps =7
+&b
+b
+b
+b
+b G b b/G
+Gb
+6 flats +
+G
+&# 1 sharp =7
+&b
+b
+b
+b
+b
+b Cb/C b
+Cb
+7 flats +
+C
+& 0 sharps =7
+Flats / sharps on
+the staff
+Pairs add to
+seven (shortcut)
+34 LearnMusicTheory.net High-Yield Music Theory, Vol. 1: Music Theory Fundamentals
+Section 2.4
+M I N O R S C A L E S : T W O R O A D S
+The most common minor scale, the natural minor scale, follows the pattern
+of half steps and whole steps formed by the white piano keys from A up to
+the next A: whole, half, whole; then whole; then half, whole, whole.
+Relative keys are any major scale and natural minor scale that share a key
+signature. The third note of the minor scale is the first note of the relative
+major with the same key signature. For example, C is the third scale note of
+A minor. C major and A minor are relative keys sharing a key signature
+with no flats or sharps. Remember: Relatives at a family reunion look
+alike, and relative key signatures “look alike” also.
+There are two roads to find key signatures for minor scales: relative and
+parallel. The example below illustrates the relative minor method for
+spelling E minor.
+STEP 1: Count up three letter names to find the relative major.
+STEP 2: Spell the relative major key signature.
+STEP 3: Adjust if necessary to match the minor scale you want.
+&
+A
+W
+lower tetrachord
+B
+h
+C
+W
+D
+W
+E
+h
+upper tetrachord
+F
+W
+G
+W
+A
+w w w w w w w w
+&
+A
+natural minor scale on A (relative major is C major)
+B
+major scale on C (starts on third scale note of A minor)
+C D E F G A B C
+w w w w w w w w w w
+&
+1
+E
+1. Count up
+three letters.
+2
+F
+3
+G
+_
+_
+_
+2. G major
+has one sharp.
+&#
+G
+_
+_
+_
+3. G major includes E§, so
+E minor also has one sharp.
+&#
+E
+W
+F#
+h
+G
+W
+A
+W
+B
+h
+C
+W
+D
+W
+E
+w w w
+w w w w w w w w w
+Minor scale
+Relative keys
+Road one:
+relative minor
+Chapter 2: Major and Minor Scales and Keys 35
+Sometimes counting up three letters gives a major key that doesn’t fit
+with the minor key you want. C minor is a good example. Counting up
+from C gives E: C, D, E. E major has four sharps, including C sharp. Since
+we want C natural, not C sharp, we need to use the key signature for E flat
+major (three flats) instead of E major.
+Parallel keys share the same starting note (called the tonic). To find the
+natural minor notes using the parallel key, write a major scale on the same
+note, then lower 3, 6, and 7 using accidentals. Although the parallel and
+relative methods both work, minor keys should be memorized.
+Melodic minor is natural minor with steps 6 and 7 raised going up, but
+like natural minor going down. Notice the F sharp in the key for E minor.
+Harmonic minor is natural minor with step 7 raised (only) both up and
+down. Again, the F sharp reflects the key signature for E natural minor.
+&
+1
+C
+1. Count up
+three letters.
+2
+D
+3
+E
+_
+_
+_
+2. E major
+has four sharps.
+&#
+#
+#
+# _
+_
+_
+3. E major includes C#, not C§, so
+use the Eb major key sig. instead.
+&b
+b
+b
+C D Eb F G Ab Bb C
+w w w
+w w w w w w w w w
+& 1
+E
+2
+F#
+E major = 4 #
+3
+G#
+4
+A
+5
+B
+6
+C#
+7
+D#
+8
+E
+_
+_
+_
+Lower steps 3, 6, and 7 with accidentals.
+& 1
+E
+2
+F#
+E minor = 1 #
+3
+G§
+4
+A
+5
+B
+6
+C§
+7
+D§
+8
+E
+w #w #w w w #w #w w
+w #w nw w w nw nw w
+&#
+E F# G A B
+6
+C#
+7
+D# E E
+7
+D§
+6
+C§ B A G F# E
+w w w w w #w #w w w nw nw w w w w w
+&#
+E F# G A B C D#
+7
+E E D#
+7
+C B A G F# E
+w w w w w w #w w w #w w w w w w w
+Relative minor
+with adjustment
+Road two:
+parallel minor
+Melodic minor
+Harmonic minor
+Chapter 2: Major and Minor Scales and Keys 39
+Section 2.7
+M A J O R A N D N A T U R A L M I N O R
+S C A L E S F O R P I A N O
+Right hand fingerings above, left hand fingerings below; thumbs are 1;
+enharmonic keys are listed only once.
+4 & 4
+5
+1
+C
+2
+4
+3
+3
+1
+2
+2
+1
+3
+3
+4
+2
+5
+1
+4
+2
+3
+3
+2
+1
+1
+2
+3
+3
+2
+4
+1
+5
+&b
+5
+1
+F
+4
+2
+3
+3
+2
+4
+1
+1
+3
+2
+2
+3
+1
+4
+2
+3
+3
+2
+1
+1
+2
+4
+3
+3
+4
+2
+5
+1
+&b
+b
+3
+2
+Bb
+2
+1
+1
+2
+4
+3
+3
+1
+2
+2
+1
+3
+2
+4
+1
+3
+2
+2
+3
+1
+4
+3
+1
+2
+2
+1
+3
+2
+&b
+b
+b
+3
+2
+Eb
+2
+1
+1
+2
+4
+3
+3
+4
+2
+1
+1
+2
+2
+3
+1
+2
+2
+1
+3
+4
+4
+3
+1
+2
+2
+1
+3
+2
+&b
+b
+b
+b
+3
+2
+Ab
+2
+3
+1
+1
+4
+2
+3
+3
+2
+1
+1
+2
+2
+3
+1
+2
+2
+1
+3
+3
+4
+2
+1
+1
+2
+4
+3
+&#
+#
+#
+#
+#
+#
+#
+3
+2
+C#
+3
+2
+1
+1
+2
+4
+3
+3
+4
+2
+1
+1
+2
+2
+1
+1
+4
+2
+3
+3
+2
+4
+1
+1
+3
+2
+2
+3
+&#
+#
+#
+#
+#
+#
+4
+2
+F#
+3
+3
+2
+4
+1
+1
+3
+2
+2
+3
+1
+1
+2
+2
+1
+1
+2
+3
+3
+2
+1
+1
+2
+4
+3
+3 2
+4
+&#
+#
+#
+#
+#
+4
+1
+B
+3
+2
+2
+3
+1
+1
+4
+2
+3
+3
+2
+4
+1
+5
+2
+4
+3
+3
+4
+2
+1
+1
+2
+3
+3
+2
+4
+1
+&#
+#
+#
+#
+5
+1
+E
+4
+2
+3
+3
+2
+1
+1
+2
+3
+3
+2
+4
+1
+5
+2
+4
+3
+3
+1
+2
+2
+1
+3
+3
+4
+2
+5
+1
+&#
+#
+#
+5
+1
+A
+4
+2
+3
+3
+2
+1
+1
+2
+3
+3
+2
+4
+1
+5
+2
+4
+3
+3
+1
+2
+2
+1
+3
+3
+4
+2
+5
+1
+&#
+#
+5
+1
+D
+2
+4
+3
+3
+1
+2 1
+2 3
+3
+4
+2
+5
+1
+4
+2
+3
+3
+2
+1
+1
+2
+3
+3
+2
+4
+1
+5
+&#
+5
+1
+G
+4
+2
+3
+3
+2
+1
+1
+2
+3
+3
+2
+4
+1
+5
+2
+4
+3
+3
+1
+2
+2
+1
+3
+3
+4
+2
+5
+1
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+Major scales
+40 LearnMusicTheory.net High-Yield Music Theory, Vol. 1: Music Theory Fundamentals
+Right hand fingerings above, left hand fingerings below; thumbs are 1;
+enharmonics keys are listed only once.
+&b
+b
+b
+5
+1
+C
+2
+4
+3
+3
+1
+2
+2
+1
+3
+3
+4
+2
+5
+1
+4
+2
+3
+3
+2
+1
+1
+2
+3
+3
+2
+4
+1
+5
+&b
+b
+b
+b
+5
+1
+F
+4
+2
+3
+3
+2
+4
+1
+1
+3
+2
+2
+3
+1
+4
+2
+3
+3
+2
+1
+1
+2
+4
+3
+3
+4
+2
+5
+1
+&b
+b
+b
+b
+b
+2
+2
+Bb
+1
+1
+3
+2
+2
+3
+1
+1
+4
+2
+3
+3
+2
+4
+3
+3
+4
+2
+1
+1
+2
+3
+3
+2
+1
+1
+2
+2
+&b
+b
+b
+b
+b
+b
+2
+2
+Eb
+1
+1
+4
+2
+3
+3
+2
+4
+1
+1
+3
+2
+2
+3
+3
+2
+1
+1
+2
+4
+3
+3
+4
+2
+1
+1
+2
+2
+&b
+b
+b
+b
+b
+b
+b
+3
+2
+Ab
+2
+3
+1
+1
+4
+2
+3
+3
+2
+1
+1
+2
+2
+3
+1
+2
+2
+1
+3
+3
+4
+2
+1
+1
+2
+4
+3
+1
+&#
+#
+#
+#
+3
+2
+C#
+3
+2
+1
+1
+2
+4
+3
+3
+1
+2
+2
+1
+3
+2
+2
+1
+1
+2
+3
+3
+2
+4
+1
+1
+4
+2
+2
+3
+&#
+#
+#
+4
+2
+F#
+3
+3
+2
+1
+1
+2
+3
+3
+2
+1
+1
+2
+2
+3
+1
+2
+2
+1
+3
+3
+1
+2
+2
+1
+3
+4
+4
+2
+&#
+#
+4
+1
+B
+3
+2
+2
+3
+1
+1
+4
+2
+3
+3
+2
+4
+1
+5
+2
+4
+3
+3
+4
+2
+1
+1
+2
+3
+3
+2
+4
+1
+&#
+5
+1
+E
+4
+2
+3
+3
+2
+1
+1
+2
+3
+3
+2
+4
+1
+5
+2
+4
+3
+3
+1
+2
+2
+1
+3
+3
+4
+2
+5
+1
+&
+5
+1
+A
+4
+2
+3
+3
+2
+1
+1
+2
+3
+3
+2
+4
+1
+5
+2
+4
+3
+3
+1
+2
+2
+1
+3
+3
+4
+2
+5
+1
+&b
+5
+1
+D
+2
+4
+3
+3
+1
+2
+2
+1
+3
+3
+4
+2
+5
+1
+4
+2
+3
+3
+2
+1
+1
+2
+3
+3
+2
+4
+1
+5
+&b
+b
+5
+1
+G
+4
+2
+3
+3
+2
+1
+1
+2
+3
+3
+2
+4
+1
+5
+2
+4
+3
+3
+1
+2
+2
+1
+3
+3
+4
+2
+5
+1
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+œ œ œ œ œ œ œ œ œ œ œ œ œ œ œ
+Natural minor
+scales
+Chapter 3
+I N T E R V A L S A N D T R A N S P O S I T I O N
+3.1 Introduction to Intervals: interval definition, major and perfect intervals, minor intervals,
+diminished, augmented, consonant intervals, perfect and imperfect consonances, dissonant intervals,
+perfect fourth, simple and compound intervals
+3.2 Mastering Intervals 1: major and minor seconds, pattern for seconds, pattern for thirds, pattern
+for fourths, pattern for fifths, pattern for sixths, pattern for sevenths, summary of core intervals
+3.3 Mastering Intervals 2: harmonic versus melodic intervals, spelling descending intervals, interval
+inversion, using inversion for sixths and sevenths, identifying intervals, summary of interval types
+3.4 Transposition: transposition of notes, transposition of chords, transposition of key signatures,
+transposing a melody, transposing instruments, common transpositions
+Chapter 4
+T R I A D S AND S E V E N T H C HORDS
+4.1 Introducing Triads: triad, root, third, fifth, major triads, minor triads, diminished triads,
+augmented triads, spelling minor triads, spelling diminished triads, spelling augmented triads, root
+position, first inversion, second inversion, voicing and inversion
+4.2 The Major Triads: Spell Them Quickly: overview, stack of thirds, BEAD raise third, B bumps
+both
+4.3 Spelling Triads in Four Steps: spelling triads given the third or the fifth, examples given the
+third, examples given the fifth
+4.4 Seventh Chords: seventh chords, major seventh chord, minor seventh chord, major-minor
+(dominant) seventh chord, half-diminished seventh chord, fully-diminished seventh chord,
+inversions
+4.5 Common Chord Reference Chart: reference chart listing triads and seventh chords
+4.6 Basic Lead Sheet Symbols: lead sheet symbols for triads, lead sheet symbols for seventh chords,
+vertical and horizontal slashes
+52 LearnMusicTheory.net High-Yield Music Theory, Vol. 1: Music Theory Fundamentals
+Section 4.1
+I N T R O D U C I N G T R I A D S
+A triad is a three-note chord built of two third intervals stacked on top of
+each other. The three notes are called root, third and fifth from bottom to
+top. In the chord below, the two third intervals are C to E and E to G.
+A major triad has a major third on the bottom and a minor third on top.
+The chord that occurs on the first step of a major key is a major triad.
+A minor triad has a minor third on the bottom and a major third on top.
+The chord that occurs on the first step of a minor key is a minor triad.
+A diminished triad is a stack of two minor thirds.
+An augmented triad is a stack of two major thirds.
+&
+root
+third
+fifth
+www
+&
+major 3rd on bottom
+w minor 3rd on top ww
+&
+minor 3rd on bottommajor 3rd on top bwww
+&
+minor 3rd on bottom minor 3rd on top bb
+www
+&
+major 3rd on bottommajor 3rd on top
+#
+www
+Triad
+Root, Third, Fifth
+Major triads
+Minor triads
+Diminished
+triads
+Augmented
+triads
+Chapter 4: Triads and Seventh Chords 53
+To spell a minor triad, start with a major triad, then lower the 3rd using
+an accidental to make a minor triad.
+To spell a diminished triad, start with a major triad, then lower the 3rd
+and 5th to make a diminished triad. Another option is to start with a major
+triad, then raise the root to make a diminished triad.
+To spell an augmented triad, spell a major triad, then raise the 5th (only) to
+make an augmented triad.
+Root position means the root is the lowest note. When the third is the
+lowest note, the triad is in first inversion. When the fifth is the lowest note,
+the triad is in second inversion.
+Chord voicing refers to the ordering of the notes (root, third, fifth) above
+the lowest note. Changing the chord voicing does not change the inversion.
+&
+F major lower 3rd
+F minor
+www & bwww
+& F major lower 3rd, 5th
+F dim. &
+& F major raise root
+F# dim. &
+www bb
+www
+www
+www
+#
+& F major raise 5th F aug.
+www & #
+www
+&
+root position
+root
+1st inversion
+third on bottom
+& fifth on bottom
+&
+2nd inversion
+www ww
+w ww
+w
+&
+fifth on the bottom
+2nd inversion
+(OR)
+fifth on the bottom
+& 2nd inversion
+(OR) & fifth on the bottom
+2nd inversion
+etc.
+ww
+w
+w
+w
+w
+w
+www
+w
+Spelling minor
+triads
+Spelling
+diminished triads
+Spelling
+augmented triads
+Root position
+First inversion
+Second inversion
+Voicing and
+inversion
+56 LearnMusicTheory.net High-Yield Music Theory, Vol. 1: Music Theory Fundamentals
+Section 4.4
+S E V E N T H C H O R D S
+A seventh chord is a four-note chord built using stacked thirds. The four
+notes are the root, third, fifth and seventh from bottom to top. There are
+five basic types. A major seventh chord has a major triad and a major
+seventh. A minor seventh chord has a minor triad and a minor seventh.
+A major-minor seventh chord has a major triad and a minor seventh.
+Mm7 chords function as dominant chords. “Mm7…dominant?”
+A half-diminished seventh has a diminished triad and a minor seventh. A
+fully-diminished seventh chord is a diminished triad plus a diminished
+seventh. Fully-diminished seventh chords are a stack of all minor thirds.
+Inversions may be root position (root on bottom), 1st inversion (3rd on
+bottom), 2nd inversion (5th on bottom), or 3rd inversion (7th on bottom).
+See 5.2 Roman numerals and Volumes 2 and 3 for more study.
+M7 & major 7th
+ chord major triad
++
+major seventh
+& =
+M7 chord
+major third on top &
+m7 & minor 7th
+ chord minor triad
++
+minor seventh
+& =
+m7 chord
+minor third on top &
+www
+w
+w
+wwww
+bwww
+w
+bw b
+wwwwb
+Mm7 &
+major triad
++
+minor seventh
+& =
+Mm7 chord
+minor third on top & www
+w
+bw b
+wwww
+&
+¯
+7 dim. triad
++
+minor seventh & = &¯
+7 chord
+major third
+&
+fully-dim.
+half-dim.
+°
+7
+dim. triad
++
+diminished seventh
+& = &
+°
+7 chord
+minor third
+bb
+www
+w
+bw b
+wwwwbb
+bb
+www
+w
+∫w ∫
+wwww bb
+Seventh chords
+Major seventh,
+Minor seventh
+Major-minor
+(dominant)
+seventh
+Half-diminished
+Fully-diminished
+Inversions
+58 LearnMusicTheory.net High-Yield Music Theory, Vol. 1: Music Theory Fundamentals
+Section 4.6
+B A S I C L E A D S H E E T S Y M B O L S
+Lead sheet symbols are written above a melody and indicate the chords to
+play underneath. They show the root of the chord and the chord quality.
+For triads, the common chord qualities are major, minor, diminished, and
+augmented.
+The symbols for seventh chords work similarly:
+A vertical slash indicates the note that should be played lowest. A
+horizontal slash indicates one chord on top of another chord (often, two
+different triads).
+See Volume 3: Jazz and Popular Music Theory and Jazzology by Rawlins
+and Bahha. For roman numerals, see 5.2 Roman Numerals.
+&
+Major
+C
+&
+Minor
+C- or Cmin
+&
+Diminished
+Cdim or Cminb5 or Cº
+&
+Augmented
+Caug or Cmaj#5
+www bwww bb
+www #
+www
+&
+Mm7
+("Dominant" 7th)
+C7
+&
+Major 7th
+C^ or Cmaj7
+&
+Minor 7th
+C-7 or Cmin7
+&
+Half—dim 7th
+Cmin7b5 or CØ7
+(Bº often spelled A§)
+&
+Diminished 7th
+Cº7 or Cdim7
+b
+wwww
+wwww b
+wwwwb
+b
+wwwwbb ∫
+wwww bb
+&
+G7/B
+B on bottom
+&
+E
+D
+_
+E major triad
+w D major triad
+wwww
+www
+#www
+#
+Lead sheet
+symbols for
+triads
+Lead sheet
+symbols for
+seventh chords
+Vertical and
+horizontal
+slashes
+See also
+Chapter 5
+I N T R O D U C T I O N T O H A R M O N I C A N A L Y S I S
+5.1 Texture in Music: harmonic analysis, texture, texture types, monophonic texture, unison,
+polyphonic texture, homophonic texture, homophonic: homorhythmic accompaniment, homophonic:
+blocked chord accompaniment, homophonic: Alberti bass accompaniment, homophonic: broken
+chord accompaniment, heterophonic texture
+5.2 Roman Numerals: roman numerals, roman numerals and chord quality, triad roman numerals in
+major keys, seventh chord roman numerals in major keys, triad roman numerals in minor keys,
+seventh chord roman numerals in minor keys, variations in minor keys, inversion numbers
+5.3 Harmonic Progression: harmonic progression, V—I (V—i), circle of fifths, sequence, downward
+thirds, subdominant progressions, the plagal progression, the deceptive progression, the subtonic in
+minor keys, harmonic progression diagram (major keys), harmonic progression diagram (minor
+keys)
+5.4 Harmonic Analysis 1: Homophonic Texture: harmonic analysis, harmonic rhythm, pitch
+inventory, harmonic analysis: homorhythmic textures, resolving ambiguities: consider progressions
+and assume the fifth is missing, harmonic analysis: blocked chord and arpeggiated accompaniments,
+nonchord tones, finding the root
+5.5 Nonchord Tones 1: nonchord tones, consonance, dissonance, passing tones, neighbor tones,
+neighbor group, cambiata, appoggiaturas, escape tones, retardations, anticipations, pedal tones,
+pedal point
+5.6 Nonchord Tones 2: Suspensions: suspensions, preparation, suspension, resolution, suspension
+types, chain of suspensions
+5.7 Second Inversion Chords: four types of second inversion triads, C-PAP, cadential, passing,
+arpeggio, pedal, summary: tips for identification
+5.8 Harmonic Analysis 2: Polyphonic Texture: Analysis of Menuet from French Suite No. 2, J.S. Bach
+Appendices
+S O L F È G E AND R H Y T H M I C S Y L L A B L E S
+Appendix 1: Solfège Syllables: standard syllables, chromatic syllables, fixed do versus moveable do,
+moveable do: do-based and la-based minor, singing with numbers, sample melody
+Appendix 2: Rhythmic Counting Syllables: rhythmic counting systems, simple time: notes on the
+beat, simple time: upbeats, simple time: the second fourth of the beat, simple time: other notes,
+compound time: two systems, compound time: notes on the beat, compound time: the second third of
+the beat, compound time: the last third of the beat, compound time: other notes, other notes
+Postlude
+R E V I E W , R E S O U R C E S , I N D E X
+Postlude 1: Remember-Forever Review: Music Theory Fundamentals: components, staffs, clefs,
+accidentals, middle C, rhythmic values, time signatures, meter, tuplets/grouplets, repeats, dynamics,
+articulation, tempo, major scale, major keys and key signatures, minor scales and minor keys, scale
+degrees (steps), intervals, triads, seventh chords, solfège, rhythmic counting, texture types
+Postlude 2: Music Fundamentals: More Resources: about the resources, websites, books
+Postlude 3: Index of Music Theory Terms
